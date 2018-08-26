@@ -17,13 +17,6 @@ Prediction
 ./main -algorithm Analogy -model_path output.model -prediction 1
 ```
 The program runs with 32 threads by default. For more options, please refer to `main.cc`.
-## Contributors
-Please cite the following if you use the code for publication
-```
-@article{liu2017analogical,
-  title={Analogical Inference for Multi-Relational Embeddings},
-  author={Liu, Hanxiao and Wu, Yuexin and Yang, Yiming},
-  journal={arXiv preprint arXiv:1705.02426},
-  year={2017}
-}
+## Original Repository
+https://github.com/quark0/ANALOGY
 ```
