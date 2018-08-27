@@ -1,0 +1,13 @@
+Validation metrics:
+Fast MRRs
+Model					MR	   	 H@10	FMR		FH@10	MRR		FMRR	rank	lmbda
+Complex_Logistic_Model	618.590	 0.189	401.350	0.376	0.084	0.190	200	0.010000
+Validation filtered MRR decreased, stopping here.
+Fast MRRs
+Fast MRRs
+Grid search finished
+Validation metrics:
+Model					MR		H@10	FMR		FH@10	MRR		FMRR	rank	lmbda
+Complex_Logistic_Model	618.590	0.189	401.350	0.376	0.084	0.190	200	0.010000
+Corresponding Test metrics:
+Complex_Logistic_Model	630.625	0.187	415.666	0.369	0.081	0.184	200	0.010000

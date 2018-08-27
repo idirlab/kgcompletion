@@ -1,0 +1,8 @@
+Fast MRRs
+Fast MRRs
+Grid search finished
+Validation metrics:
+Model					MR			H@10	FMR			FH@10	MRR		FMRR	rank lmbda
+DistMult_Logistic_Model	706.538		0.185	489.260		0.358	0.082	0.184	200	0.010000
+Corresponding Test metrics:
+DistMult_Logistic_Model	708.787		0.180	493.997		0.352	0.079	0.175	200	0.010000
