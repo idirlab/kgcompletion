@@ -1,0 +1,40 @@
+pca confidence count
+/m/0x3r3 /user/alexander/philosophy/philosopher/interests /m/05qt0 0 0 0 0
+/m/026lj /user/alexander/philosophy/philosopher/interests /m/0x0w 0 0 0 0
+/m/07c37 /user/alexander/philosophy/philosopher/interests /m/05r79 0 0 0 0
+/m/01d494 /user/alexander/philosophy/philosopher/interests /m/0gt_hv 0 0 0 0
+/m/043tg /user/alexander/philosophy/philosopher/interests /m/0x0w 0 0 0 0
+/m/0420y /user/alexander/philosophy/philosopher/interests /m/05r79 0 0 0 0
+/m/0b78hw /user/alexander/philosophy/philosopher/interests /m/05qfh 0 0 0 0
+/m/03sbs /user/alexander/philosophy/philosopher/interests /m/09xq9d 1 1 0 0
+/m/0gz_ /user/alexander/philosophy/philosopher/interests /m/02jhc 0 0 0 0
+std confidence count
+/m/0x3r3 /user/alexander/philosophy/philosopher/interests /m/05qt0 1 1 0 1
+/m/026lj /user/alexander/philosophy/philosopher/interests /m/0x0w 1 1 0 1
+/m/07c37 /user/alexander/philosophy/philosopher/interests /m/05r79 1 1 0 1
+/m/01d494 /user/alexander/philosophy/philosopher/interests /m/0gt_hv 1 1 0 1
+/m/043tg /user/alexander/philosophy/philosopher/interests /m/0x0w 1 1 0 1
+/m/0420y /user/alexander/philosophy/philosopher/interests /m/05r79 1 1 0 1
+/m/0b78hw /user/alexander/philosophy/philosopher/interests /m/05qfh 1 1 0 1
+/m/03sbs /user/alexander/philosophy/philosopher/interests /m/09xq9d 1 1 0 1
+/m/0gz_ /user/alexander/philosophy/philosopher/interests /m/02jhc 1 1 0 1
+pca confidence sum
+/m/0x3r3 /user/alexander/philosophy/philosopher/interests /m/05qt0 0 0 0 0
+/m/026lj /user/alexander/philosophy/philosopher/interests /m/0x0w 0 0 0 0
+/m/07c37 /user/alexander/philosophy/philosopher/interests /m/05r79 0 0 0 0
+/m/01d494 /user/alexander/philosophy/philosopher/interests /m/0gt_hv 0 1 0 0
+/m/043tg /user/alexander/philosophy/philosopher/interests /m/0x0w 0 0 0 0
+/m/0420y /user/alexander/philosophy/philosopher/interests /m/05r79 0 1 0 0
+/m/0b78hw /user/alexander/philosophy/philosopher/interests /m/05qfh 0 0 0 0
+/m/03sbs /user/alexander/philosophy/philosopher/interests /m/09xq9d 1 1 0 1
+/m/0gz_ /user/alexander/philosophy/philosopher/interests /m/02jhc 0 1 0 0
+std confidence sum
+/m/0x3r3 /user/alexander/philosophy/philosopher/interests /m/05qt0 0 0 0 0
+/m/026lj /user/alexander/philosophy/philosopher/interests /m/0x0w 0 0 0 0
+/m/07c37 /user/alexander/philosophy/philosopher/interests /m/05r79 0 0 0 0
+/m/01d494 /user/alexander/philosophy/philosopher/interests /m/0gt_hv 0 1 0 0
+/m/043tg /user/alexander/philosophy/philosopher/interests /m/0x0w 0 0 0 0
+/m/0420y /user/alexander/philosophy/philosopher/interests /m/05r79 0 1 0 0
+/m/0b78hw /user/alexander/philosophy/philosopher/interests /m/05qfh 0 0 0 0
+/m/03sbs /user/alexander/philosophy/philosopher/interests /m/09xq9d 1 1 0 1
+/m/0gz_ /user/alexander/philosophy/philosopher/interests /m/02jhc 1 1 0 1

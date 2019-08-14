@@ -1,0 +1,56 @@
+pca confidence count
+/m/0l6mp /olympics/olympic_games/sports /m/0w0d 0 1 0 0
+/m/0jhn7 /olympics/olympic_games/sports /m/0w0d 1 1 0 1
+/m/018ljb /olympics/olympic_games/sports /m/071t0 0 1 0 0
+/m/0jkvj /olympics/olympic_games/sports /m/03fyrh 1 1 0 1
+/m/0l98s /olympics/olympic_games/sports /m/064vjs 1 1 0 0
+/m/0ldqf /olympics/olympic_games/sports /m/06z6r 0 1 0 1
+/m/0l6mp /olympics/olympic_games/sports /m/03hr1p 0 1 0 0
+/m/0l6ny /olympics/olympic_games/sports /m/0bynt 0 1 0 0
+/m/0l6vl /olympics/olympic_games/sports /m/06f41 0 1 0 0
+/m/018ctl /olympics/olympic_games/sports /m/06zgc 0 1 0 0
+/m/018ctl /olympics/olympic_games/sports /m/09_94 0 1 0 0
+/m/0lbd9 /olympics/olympic_games/sports /m/01cgz 0 1 0 0
+/m/0ldqf /olympics/olympic_games/sports /m/06wrt 0 1 0 0
+std confidence count
+/m/0l6mp /olympics/olympic_games/sports /m/0w0d 0 1 0 0
+/m/0jhn7 /olympics/olympic_games/sports /m/0w0d 1 1 0 0
+/m/018ljb /olympics/olympic_games/sports /m/071t0 0 1 0 0
+/m/0jkvj /olympics/olympic_games/sports /m/03fyrh 1 1 0 1
+/m/0l98s /olympics/olympic_games/sports /m/064vjs 1 1 0 0
+/m/0ldqf /olympics/olympic_games/sports /m/06z6r 0 1 0 1
+/m/0l6mp /olympics/olympic_games/sports /m/03hr1p 0 1 0 0
+/m/0l6ny /olympics/olympic_games/sports /m/0bynt 0 1 0 0
+/m/0l6vl /olympics/olympic_games/sports /m/06f41 0 1 0 0
+/m/018ctl /olympics/olympic_games/sports /m/06zgc 0 1 0 0
+/m/018ctl /olympics/olympic_games/sports /m/09_94 0 1 0 0
+/m/0lbd9 /olympics/olympic_games/sports /m/01cgz 0 1 0 0
+/m/0ldqf /olympics/olympic_games/sports /m/06wrt 0 1 0 0
+pca confidence sum
+/m/0l6mp /olympics/olympic_games/sports /m/0w0d 0 1 0 0
+/m/0jhn7 /olympics/olympic_games/sports /m/0w0d 1 1 0 1
+/m/018ljb /olympics/olympic_games/sports /m/071t0 0 1 0 0
+/m/0jkvj /olympics/olympic_games/sports /m/03fyrh 1 1 0 1
+/m/0l98s /olympics/olympic_games/sports /m/064vjs 1 1 0 0
+/m/0ldqf /olympics/olympic_games/sports /m/06z6r 0 1 0 0
+/m/0l6mp /olympics/olympic_games/sports /m/03hr1p 0 1 0 0
+/m/0l6ny /olympics/olympic_games/sports /m/0bynt 0 1 0 0
+/m/0l6vl /olympics/olympic_games/sports /m/06f41 0 1 0 0
+/m/018ctl /olympics/olympic_games/sports /m/06zgc 0 0 0 0
+/m/018ctl /olympics/olympic_games/sports /m/09_94 0 0 0 0
+/m/0lbd9 /olympics/olympic_games/sports /m/01cgz 0 1 0 0
+/m/0ldqf /olympics/olympic_games/sports /m/06wrt 0 1 0 1
+std confidence sum
+/m/0l6mp /olympics/olympic_games/sports /m/0w0d 0 1 0 0
+/m/0jhn7 /olympics/olympic_games/sports /m/0w0d 1 1 0 1
+/m/018ljb /olympics/olympic_games/sports /m/071t0 0 1 0 0
+/m/0jkvj /olympics/olympic_games/sports /m/03fyrh 1 1 0 1
+/m/0l98s /olympics/olympic_games/sports /m/064vjs 1 1 0 0
+/m/0ldqf /olympics/olympic_games/sports /m/06z6r 0 1 0 0
+/m/0l6mp /olympics/olympic_games/sports /m/03hr1p 0 1 0 0
+/m/0l6ny /olympics/olympic_games/sports /m/0bynt 0 1 0 0
+/m/0l6vl /olympics/olympic_games/sports /m/06f41 0 1 0 0
+/m/018ctl /olympics/olympic_games/sports /m/06zgc 0 0 0 0
+/m/018ctl /olympics/olympic_games/sports /m/09_94 0 0 0 0
+/m/0lbd9 /olympics/olympic_games/sports /m/01cgz 0 1 0 0
+/m/0ldqf /olympics/olympic_games/sports /m/06wrt 0 1 0 1

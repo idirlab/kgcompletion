@@ -1,0 +1,20 @@
+pca confidence count
+/m/0dplh /travel/tourist_attraction/near_travel_destination /m/04jpl 1 1 1 1
+/m/04thp /travel/tourist_attraction/near_travel_destination /m/04thp 1 1 1 1
+/m/0bqyhk /travel/tourist_attraction/near_travel_destination /m/01zst8 1 1 1 1
+/m/0bvqq /travel/tourist_attraction/near_travel_destination /m/0f485 1 1 0 1
+std confidence count
+/m/0dplh /travel/tourist_attraction/near_travel_destination /m/04jpl 1 1 1 1
+/m/04thp /travel/tourist_attraction/near_travel_destination /m/04thp 1 1 1 1
+/m/0bqyhk /travel/tourist_attraction/near_travel_destination /m/01zst8 1 1 1 1
+/m/0bvqq /travel/tourist_attraction/near_travel_destination /m/0f485 1 1 0 1
+pca confidence sum
+/m/0dplh /travel/tourist_attraction/near_travel_destination /m/04jpl 1 1 1 1
+/m/04thp /travel/tourist_attraction/near_travel_destination /m/04thp 1 1 0 0
+/m/0bqyhk /travel/tourist_attraction/near_travel_destination /m/01zst8 1 1 0 0
+/m/0bvqq /travel/tourist_attraction/near_travel_destination /m/0f485 1 1 0 1
+std confidence sum
+/m/0dplh /travel/tourist_attraction/near_travel_destination /m/04jpl 1 1 1 1
+/m/04thp /travel/tourist_attraction/near_travel_destination /m/04thp 1 1 1 1
+/m/0bqyhk /travel/tourist_attraction/near_travel_destination /m/01zst8 1 1 1 1
+/m/0bvqq /travel/tourist_attraction/near_travel_destination /m/0f485 1 1 0 1

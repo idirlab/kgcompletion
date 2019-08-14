@@ -1,0 +1,12 @@
+pca confidence count
+/m/01rzqj /base/crime/convicted_criminal/convictions./base/crime/criminal_conviction/guilty_of /m/0_5w_ 0 0 0 0
+/m/06b_0 /base/crime/convicted_criminal/convictions./base/crime/criminal_conviction/guilty_of /m/06g5z 0 0 0 0
+std confidence count
+/m/01rzqj /base/crime/convicted_criminal/convictions./base/crime/criminal_conviction/guilty_of /m/0_5w_ 1 1 0 1
+/m/06b_0 /base/crime/convicted_criminal/convictions./base/crime/criminal_conviction/guilty_of /m/06g5z 0 0 0 0
+pca confidence sum
+/m/01rzqj /base/crime/convicted_criminal/convictions./base/crime/criminal_conviction/guilty_of /m/0_5w_ 0 0 0 0
+/m/06b_0 /base/crime/convicted_criminal/convictions./base/crime/criminal_conviction/guilty_of /m/06g5z 0 0 0 0
+std confidence sum
+/m/01rzqj /base/crime/convicted_criminal/convictions./base/crime/criminal_conviction/guilty_of /m/0_5w_ 0 1 0 0
+/m/06b_0 /base/crime/convicted_criminal/convictions./base/crime/criminal_conviction/guilty_of /m/06g5z 0 0 0 0

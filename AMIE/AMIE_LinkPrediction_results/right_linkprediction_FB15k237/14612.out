@@ -1,0 +1,52 @@
+pca confidence count
+/m/0b3wk /government/governmental_body/members./government/government_position_held/legislative_sessions /m/01gstn 0 1 0 0
+/m/0b3wk /government/governmental_body/members./government/government_position_held/legislative_sessions /m/024tkd 0 1 0 0
+/m/0b3wk /government/governmental_body/members./government/government_position_held/legislative_sessions /m/01grrf 0 1 0 1
+/m/07t58 /government/governmental_body/members./government/government_position_held/legislative_sessions /m/01grq1 0 1 0 1
+/m/07t58 /government/governmental_body/members./government/government_position_held/legislative_sessions /m/04gp1d 0 1 0 1
+/m/0b3wk /government/governmental_body/members./government/government_position_held/legislative_sessions /m/024tcq 0 1 0 0
+/m/0b3wk /government/governmental_body/members./government/government_position_held/legislative_sessions /m/02bqmq 0 1 0 0
+/m/07t58 /government/governmental_body/members./government/government_position_held/legislative_sessions /m/0495ys 0 1 0 1
+/m/07t58 /government/governmental_body/members./government/government_position_held/legislative_sessions /m/060ny2 0 1 0 1
+/m/0h6dy /government/governmental_body/members./government/government_position_held/legislative_sessions /m/01gvxh 1 1 0 1
+/m/07t58 /government/governmental_body/members./government/government_position_held/legislative_sessions /m/01grrf 0 1 0 1
+/m/0b3wk /government/governmental_body/members./government/government_position_held/legislative_sessions /m/01gsry 0 1 0 1
+std confidence count
+/m/0b3wk /government/governmental_body/members./government/government_position_held/legislative_sessions /m/01gstn 0 1 0 0
+/m/0b3wk /government/governmental_body/members./government/government_position_held/legislative_sessions /m/024tkd 0 1 0 0
+/m/0b3wk /government/governmental_body/members./government/government_position_held/legislative_sessions /m/01grrf 0 1 0 0
+/m/07t58 /government/governmental_body/members./government/government_position_held/legislative_sessions /m/01grq1 0 1 0 1
+/m/07t58 /government/governmental_body/members./government/government_position_held/legislative_sessions /m/04gp1d 0 1 0 1
+/m/0b3wk /government/governmental_body/members./government/government_position_held/legislative_sessions /m/024tcq 0 1 0 0
+/m/0b3wk /government/governmental_body/members./government/government_position_held/legislative_sessions /m/02bqmq 0 1 0 0
+/m/07t58 /government/governmental_body/members./government/government_position_held/legislative_sessions /m/0495ys 0 1 0 1
+/m/07t58 /government/governmental_body/members./government/government_position_held/legislative_sessions /m/060ny2 0 1 0 1
+/m/0h6dy /government/governmental_body/members./government/government_position_held/legislative_sessions /m/01gvxh 1 1 0 1
+/m/07t58 /government/governmental_body/members./government/government_position_held/legislative_sessions /m/01grrf 0 1 0 1
+/m/0b3wk /government/governmental_body/members./government/government_position_held/legislative_sessions /m/01gsry 0 1 0 1
+pca confidence sum
+/m/0b3wk /government/governmental_body/members./government/government_position_held/legislative_sessions /m/01gstn 0 1 0 1
+/m/0b3wk /government/governmental_body/members./government/government_position_held/legislative_sessions /m/024tkd 1 1 0 1
+/m/0b3wk /government/governmental_body/members./government/government_position_held/legislative_sessions /m/01grrf 0 1 0 1
+/m/07t58 /government/governmental_body/members./government/government_position_held/legislative_sessions /m/01grq1 0 1 0 1
+/m/07t58 /government/governmental_body/members./government/government_position_held/legislative_sessions /m/04gp1d 0 1 0 1
+/m/0b3wk /government/governmental_body/members./government/government_position_held/legislative_sessions /m/024tcq 1 1 0 1
+/m/0b3wk /government/governmental_body/members./government/government_position_held/legislative_sessions /m/02bqmq 1 1 0 1
+/m/07t58 /government/governmental_body/members./government/government_position_held/legislative_sessions /m/0495ys 0 1 0 1
+/m/07t58 /government/governmental_body/members./government/government_position_held/legislative_sessions /m/060ny2 0 1 0 1
+/m/0h6dy /government/governmental_body/members./government/government_position_held/legislative_sessions /m/01gvxh 1 1 0 1
+/m/07t58 /government/governmental_body/members./government/government_position_held/legislative_sessions /m/01grrf 0 1 0 1
+/m/0b3wk /government/governmental_body/members./government/government_position_held/legislative_sessions /m/01gsry 0 1 0 1
+std confidence sum
+/m/0b3wk /government/governmental_body/members./government/government_position_held/legislative_sessions /m/01gstn 0 1 0 1
+/m/0b3wk /government/governmental_body/members./government/government_position_held/legislative_sessions /m/024tkd 1 1 0 1
+/m/0b3wk /government/governmental_body/members./government/government_position_held/legislative_sessions /m/01grrf 0 1 0 1
+/m/07t58 /government/governmental_body/members./government/government_position_held/legislative_sessions /m/01grq1 0 1 0 1
+/m/07t58 /government/governmental_body/members./government/government_position_held/legislative_sessions /m/04gp1d 0 1 0 1
+/m/0b3wk /government/governmental_body/members./government/government_position_held/legislative_sessions /m/024tcq 1 1 0 1
+/m/0b3wk /government/governmental_body/members./government/government_position_held/legislative_sessions /m/02bqmq 1 1 0 1
+/m/07t58 /government/governmental_body/members./government/government_position_held/legislative_sessions /m/0495ys 0 1 0 1
+/m/07t58 /government/governmental_body/members./government/government_position_held/legislative_sessions /m/060ny2 0 1 0 1
+/m/0h6dy /government/governmental_body/members./government/government_position_held/legislative_sessions /m/01gvxh 1 1 0 1
+/m/07t58 /government/governmental_body/members./government/government_position_held/legislative_sessions /m/01grrf 0 1 0 1
+/m/0b3wk /government/governmental_body/members./government/government_position_held/legislative_sessions /m/01gsry 0 1 0 1

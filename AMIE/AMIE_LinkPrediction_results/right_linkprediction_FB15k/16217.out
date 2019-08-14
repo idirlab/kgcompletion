@@ -1,0 +1,12 @@
+pca confidence count
+/m/02ryvsw /tv/tv_program/episodes /m/0bx0l 0 1 0 0
+/m/02ryvsw /tv/tv_program/episodes /m/0k5px 0 1 0 0
+std confidence count
+/m/02ryvsw /tv/tv_program/episodes /m/0bx0l 1 1 0 1
+/m/02ryvsw /tv/tv_program/episodes /m/0k5px 1 1 0 1
+pca confidence sum
+/m/02ryvsw /tv/tv_program/episodes /m/0bx0l 0 0 0 0
+/m/02ryvsw /tv/tv_program/episodes /m/0k5px 0 0 0 0
+std confidence sum
+/m/02ryvsw /tv/tv_program/episodes /m/0bx0l 0 1 0 0
+/m/02ryvsw /tv/tv_program/episodes /m/0k5px 1 1 0 1

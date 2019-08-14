@@ -1,0 +1,24 @@
+pca confidence count
+/m/0948xk /government/politician/government_positions_held./government/government_position_held/appointed_by /m/0d1_f 1 1 1 1
+/m/034ls /government/politician/government_positions_held./government/government_position_held/appointed_by /m/0c_md_ 1 1 0 0
+/m/082xp /government/politician/government_positions_held./government/government_position_held/appointed_by /m/0lzcs 1 1 0 0
+/m/03l3ln /government/politician/government_positions_held./government/government_position_held/appointed_by /m/02mjmr 1 1 1 1
+/m/01mvpv /government/politician/government_positions_held./government/government_position_held/appointed_by /m/042fk 1 1 1 1
+std confidence count
+/m/0948xk /government/politician/government_positions_held./government/government_position_held/appointed_by /m/0d1_f 1 1 1 1
+/m/034ls /government/politician/government_positions_held./government/government_position_held/appointed_by /m/0c_md_ 1 1 0 0
+/m/082xp /government/politician/government_positions_held./government/government_position_held/appointed_by /m/0lzcs 1 1 1 1
+/m/03l3ln /government/politician/government_positions_held./government/government_position_held/appointed_by /m/02mjmr 1 1 1 1
+/m/01mvpv /government/politician/government_positions_held./government/government_position_held/appointed_by /m/042fk 1 1 1 1
+pca confidence sum
+/m/0948xk /government/politician/government_positions_held./government/government_position_held/appointed_by /m/0d1_f 1 1 1 1
+/m/034ls /government/politician/government_positions_held./government/government_position_held/appointed_by /m/0c_md_ 0 0 0 0
+/m/082xp /government/politician/government_positions_held./government/government_position_held/appointed_by /m/0lzcs 1 1 0 0
+/m/03l3ln /government/politician/government_positions_held./government/government_position_held/appointed_by /m/02mjmr 1 1 1 1
+/m/01mvpv /government/politician/government_positions_held./government/government_position_held/appointed_by /m/042fk 1 1 0 0
+std confidence sum
+/m/0948xk /government/politician/government_positions_held./government/government_position_held/appointed_by /m/0d1_f 1 1 1 1
+/m/034ls /government/politician/government_positions_held./government/government_position_held/appointed_by /m/0c_md_ 0 1 0 0
+/m/082xp /government/politician/government_positions_held./government/government_position_held/appointed_by /m/0lzcs 1 1 1 1
+/m/03l3ln /government/politician/government_positions_held./government/government_position_held/appointed_by /m/02mjmr 1 1 1 1
+/m/01mvpv /government/politician/government_positions_held./government/government_position_held/appointed_by /m/042fk 1 1 0 0

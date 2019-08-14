@@ -1,0 +1,12 @@
+pca confidence count
+/m/02plv57 /sports/sports_team/roster./basketball/basketball_roster_position/position /m/02_ssl 1 1 1 1
+/m/02plv57 /sports/sports_team/roster./basketball/basketball_roster_position/position /m/02sf_r 1 1 0 1
+std confidence count
+/m/02plv57 /sports/sports_team/roster./basketball/basketball_roster_position/position /m/02_ssl 1 1 0 1
+/m/02plv57 /sports/sports_team/roster./basketball/basketball_roster_position/position /m/02sf_r 1 1 1 1
+pca confidence sum
+/m/02plv57 /sports/sports_team/roster./basketball/basketball_roster_position/position /m/02_ssl 1 1 1 1
+/m/02plv57 /sports/sports_team/roster./basketball/basketball_roster_position/position /m/02sf_r 1 1 0 0
+std confidence sum
+/m/02plv57 /sports/sports_team/roster./basketball/basketball_roster_position/position /m/02_ssl 1 1 1 1
+/m/02plv57 /sports/sports_team/roster./basketball/basketball_roster_position/position /m/02sf_r 1 1 0 0

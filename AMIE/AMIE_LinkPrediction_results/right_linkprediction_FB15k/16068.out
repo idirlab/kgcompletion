@@ -1,0 +1,24 @@
+pca confidence count
+/m/054c1 /sports/pro_athlete/teams./basketball/basketball_historical_roster_position/team /m/0jm74 1 1 1 1
+/m/012xdf /sports/pro_athlete/teams./basketball/basketball_historical_roster_position/team /m/0bwjj 1 1 0 0
+/m/054c1 /sports/pro_athlete/teams./basketball/basketball_historical_roster_position/team /m/0jm5b 1 1 0 1
+/m/02cg2v /sports/pro_athlete/teams./basketball/basketball_historical_roster_position/team /m/0jm3b 1 1 0 1
+/m/03lh3v /sports/pro_athlete/teams./basketball/basketball_historical_roster_position/team /m/0jmbv 1 1 0 1
+std confidence count
+/m/054c1 /sports/pro_athlete/teams./basketball/basketball_historical_roster_position/team /m/0jm74 1 1 0 1
+/m/012xdf /sports/pro_athlete/teams./basketball/basketball_historical_roster_position/team /m/0bwjj 1 1 0 1
+/m/054c1 /sports/pro_athlete/teams./basketball/basketball_historical_roster_position/team /m/0jm5b 1 1 0 1
+/m/02cg2v /sports/pro_athlete/teams./basketball/basketball_historical_roster_position/team /m/0jm3b 1 1 0 1
+/m/03lh3v /sports/pro_athlete/teams./basketball/basketball_historical_roster_position/team /m/0jmbv 1 1 0 1
+pca confidence sum
+/m/054c1 /sports/pro_athlete/teams./basketball/basketball_historical_roster_position/team /m/0jm74 1 1 1 1
+/m/012xdf /sports/pro_athlete/teams./basketball/basketball_historical_roster_position/team /m/0bwjj 1 1 0 1
+/m/054c1 /sports/pro_athlete/teams./basketball/basketball_historical_roster_position/team /m/0jm5b 1 1 0 1
+/m/02cg2v /sports/pro_athlete/teams./basketball/basketball_historical_roster_position/team /m/0jm3b 1 1 0 1
+/m/03lh3v /sports/pro_athlete/teams./basketball/basketball_historical_roster_position/team /m/0jmbv 1 1 0 1
+std confidence sum
+/m/054c1 /sports/pro_athlete/teams./basketball/basketball_historical_roster_position/team /m/0jm74 1 1 1 1
+/m/012xdf /sports/pro_athlete/teams./basketball/basketball_historical_roster_position/team /m/0bwjj 1 1 0 1
+/m/054c1 /sports/pro_athlete/teams./basketball/basketball_historical_roster_position/team /m/0jm5b 1 1 0 1
+/m/02cg2v /sports/pro_athlete/teams./basketball/basketball_historical_roster_position/team /m/0jm3b 1 1 0 1
+/m/03lh3v /sports/pro_athlete/teams./basketball/basketball_historical_roster_position/team /m/0jmbv 1 1 0 1

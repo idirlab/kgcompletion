@@ -1,0 +1,20 @@
+pca confidence count
+/m/03d1713 /tv/tv_series_season/regular_cast./tv/regular_tv_appearance/actor /m/04v7kt 1 1 0 1
+/m/03d178b /tv/tv_series_season/regular_cast./tv/regular_tv_appearance/actor /m/0686zv 1 1 0 1
+/m/03lsz8h /tv/tv_series_season/regular_cast./tv/regular_tv_appearance/actor /m/07f3xb 1 1 1 1
+/m/03d1713 /tv/tv_series_season/regular_cast./tv/regular_tv_appearance/actor /m/0686zv 1 1 0 0
+std confidence count
+/m/03d1713 /tv/tv_series_season/regular_cast./tv/regular_tv_appearance/actor /m/04v7kt 1 1 0 1
+/m/03d178b /tv/tv_series_season/regular_cast./tv/regular_tv_appearance/actor /m/0686zv 1 1 0 1
+/m/03lsz8h /tv/tv_series_season/regular_cast./tv/regular_tv_appearance/actor /m/07f3xb 1 1 1 1
+/m/03d1713 /tv/tv_series_season/regular_cast./tv/regular_tv_appearance/actor /m/0686zv 1 1 0 1
+pca confidence sum
+/m/03d1713 /tv/tv_series_season/regular_cast./tv/regular_tv_appearance/actor /m/04v7kt 1 1 0 0
+/m/03d178b /tv/tv_series_season/regular_cast./tv/regular_tv_appearance/actor /m/0686zv 1 1 0 1
+/m/03lsz8h /tv/tv_series_season/regular_cast./tv/regular_tv_appearance/actor /m/07f3xb 1 1 1 1
+/m/03d1713 /tv/tv_series_season/regular_cast./tv/regular_tv_appearance/actor /m/0686zv 1 1 0 1
+std confidence sum
+/m/03d1713 /tv/tv_series_season/regular_cast./tv/regular_tv_appearance/actor /m/04v7kt 1 1 0 0
+/m/03d178b /tv/tv_series_season/regular_cast./tv/regular_tv_appearance/actor /m/0686zv 1 1 0 1
+/m/03lsz8h /tv/tv_series_season/regular_cast./tv/regular_tv_appearance/actor /m/07f3xb 1 1 1 1
+/m/03d1713 /tv/tv_series_season/regular_cast./tv/regular_tv_appearance/actor /m/0686zv 1 1 0 1

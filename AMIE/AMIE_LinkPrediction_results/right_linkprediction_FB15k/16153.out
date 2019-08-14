@@ -1,0 +1,12 @@
+pca confidence count
+/m/015z4j /tennis/tennis_player/matches_won./tennis/tennis_match/loser /m/016cff 1 1 0 0
+/m/016cff /tennis/tennis_player/matches_won./tennis/tennis_match/loser /m/015z4j 1 1 0 0
+std confidence count
+/m/015z4j /tennis/tennis_player/matches_won./tennis/tennis_match/loser /m/016cff 1 1 1 1
+/m/016cff /tennis/tennis_player/matches_won./tennis/tennis_match/loser /m/015z4j 1 1 1 1
+pca confidence sum
+/m/015z4j /tennis/tennis_player/matches_won./tennis/tennis_match/loser /m/016cff 1 1 0 0
+/m/016cff /tennis/tennis_player/matches_won./tennis/tennis_match/loser /m/015z4j 1 1 0 0
+std confidence sum
+/m/015z4j /tennis/tennis_player/matches_won./tennis/tennis_match/loser /m/016cff 1 1 0 0
+/m/016cff /tennis/tennis_player/matches_won./tennis/tennis_match/loser /m/015z4j 1 1 0 0

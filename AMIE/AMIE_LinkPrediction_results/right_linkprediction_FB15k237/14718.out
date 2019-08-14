@@ -1,0 +1,16 @@
+pca confidence count
+/m/05g76 /sports/sports_team/roster./baseball/baseball_roster_position/position /m/01z9v6 1 1 0 1
+/m/04c9bn /sports/sports_team/roster./baseball/baseball_roster_position/position /m/02wszf 1 1 0 1
+/m/04b5l3 /sports/sports_team/roster./baseball/baseball_roster_position/position /m/02lyr4 1 1 0 0
+std confidence count
+/m/05g76 /sports/sports_team/roster./baseball/baseball_roster_position/position /m/01z9v6 1 1 0 1
+/m/04c9bn /sports/sports_team/roster./baseball/baseball_roster_position/position /m/02wszf 1 1 1 1
+/m/04b5l3 /sports/sports_team/roster./baseball/baseball_roster_position/position /m/02lyr4 1 1 0 0
+pca confidence sum
+/m/05g76 /sports/sports_team/roster./baseball/baseball_roster_position/position /m/01z9v6 1 1 0 1
+/m/04c9bn /sports/sports_team/roster./baseball/baseball_roster_position/position /m/02wszf 1 1 0 0
+/m/04b5l3 /sports/sports_team/roster./baseball/baseball_roster_position/position /m/02lyr4 1 1 0 0
+std confidence sum
+/m/05g76 /sports/sports_team/roster./baseball/baseball_roster_position/position /m/01z9v6 1 1 0 1
+/m/04c9bn /sports/sports_team/roster./baseball/baseball_roster_position/position /m/02wszf 1 1 1 1
+/m/04b5l3 /sports/sports_team/roster./baseball/baseball_roster_position/position /m/02lyr4 1 1 0 0

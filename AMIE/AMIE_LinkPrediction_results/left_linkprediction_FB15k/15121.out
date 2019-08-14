@@ -1,0 +1,12 @@
+pca confidence count
+/m/0x2gl /base/fight/crime_type/people_convicted_of_this_crime./base/crime/criminal_conviction/convicted_person /m/05w88j 1 1 0 0
+/m/06g5z /base/fight/crime_type/people_convicted_of_this_crime./base/crime/criminal_conviction/convicted_person /m/06b_0 0 0 0 0
+std confidence count
+/m/0x2gl /base/fight/crime_type/people_convicted_of_this_crime./base/crime/criminal_conviction/convicted_person /m/05w88j 1 1 1 1
+/m/06g5z /base/fight/crime_type/people_convicted_of_this_crime./base/crime/criminal_conviction/convicted_person /m/06b_0 0 0 0 0
+pca confidence sum
+/m/0x2gl /base/fight/crime_type/people_convicted_of_this_crime./base/crime/criminal_conviction/convicted_person /m/05w88j 1 1 0 0
+/m/06g5z /base/fight/crime_type/people_convicted_of_this_crime./base/crime/criminal_conviction/convicted_person /m/06b_0 0 0 0 0
+std confidence sum
+/m/0x2gl /base/fight/crime_type/people_convicted_of_this_crime./base/crime/criminal_conviction/convicted_person /m/05w88j 1 1 1 1
+/m/06g5z /base/fight/crime_type/people_convicted_of_this_crime./base/crime/criminal_conviction/convicted_person /m/06b_0 0 0 0 0

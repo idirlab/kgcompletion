@@ -1,0 +1,28 @@
+pca confidence count
+/m/03v09 /language/language_family/languages /m/01c7y 0 0 0 0
+/m/03v09 /language/language_family/languages /m/0x82 0 0 0 0
+/m/03v09 /language/language_family/languages /m/055qm 0 0 0 0
+/m/03v09 /language/language_family/languages /m/05zjd 1 1 0 0
+/m/03v09 /language/language_family/languages /m/01wgr 0 1 0 0
+/m/03v09 /language/language_family/languages /m/0h407 0 0 0 0
+std confidence count
+/m/03v09 /language/language_family/languages /m/01c7y 0 1 0 0
+/m/03v09 /language/language_family/languages /m/0x82 0 0 0 0
+/m/03v09 /language/language_family/languages /m/055qm 0 1 0 0
+/m/03v09 /language/language_family/languages /m/05zjd 0 1 0 0
+/m/03v09 /language/language_family/languages /m/01wgr 0 1 0 0
+/m/03v09 /language/language_family/languages /m/0h407 0 1 0 0
+pca confidence sum
+/m/03v09 /language/language_family/languages /m/01c7y 0 0 0 0
+/m/03v09 /language/language_family/languages /m/0x82 0 0 0 0
+/m/03v09 /language/language_family/languages /m/055qm 0 0 0 0
+/m/03v09 /language/language_family/languages /m/05zjd 1 1 0 0
+/m/03v09 /language/language_family/languages /m/01wgr 0 1 0 0
+/m/03v09 /language/language_family/languages /m/0h407 0 0 0 0
+std confidence sum
+/m/03v09 /language/language_family/languages /m/01c7y 0 0 0 0
+/m/03v09 /language/language_family/languages /m/0x82 0 0 0 0
+/m/03v09 /language/language_family/languages /m/055qm 0 0 0 0
+/m/03v09 /language/language_family/languages /m/05zjd 0 1 0 0
+/m/03v09 /language/language_family/languages /m/01wgr 0 1 0 0
+/m/03v09 /language/language_family/languages /m/0h407 0 0 0 0

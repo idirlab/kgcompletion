@@ -1,0 +1,36 @@
+pca confidence count
+/m/02r_pp /film/film/film_art_direction_by /m/07hhnl 1 1 1 1
+/m/04v8x9 /film/film/film_art_direction_by /m/0fmqp6 1 1 1 1
+/m/025scjj /film/film/film_art_direction_by /m/072twv 1 1 1 1
+/m/0jqd3 /film/film/film_art_direction_by /m/04gmp_z 1 1 0 0
+/m/0m_h6 /film/film/film_art_direction_by /m/05v1sb 1 1 1 1
+/m/0147sh /film/film/film_art_direction_by /m/04gmp_z 1 1 0 1
+/m/0jwvf /film/film/film_art_direction_by /m/07hhnl 1 1 1 1
+/m/015gm8 /film/film/film_art_direction_by /m/07hhnl 1 1 1 1
+std confidence count
+/m/02r_pp /film/film/film_art_direction_by /m/07hhnl 1 1 1 1
+/m/04v8x9 /film/film/film_art_direction_by /m/0fmqp6 1 1 1 1
+/m/025scjj /film/film/film_art_direction_by /m/072twv 1 1 1 1
+/m/0jqd3 /film/film/film_art_direction_by /m/04gmp_z 1 1 1 1
+/m/0m_h6 /film/film/film_art_direction_by /m/05v1sb 1 1 1 1
+/m/0147sh /film/film/film_art_direction_by /m/04gmp_z 1 1 0 1
+/m/0jwvf /film/film/film_art_direction_by /m/07hhnl 1 1 1 1
+/m/015gm8 /film/film/film_art_direction_by /m/07hhnl 1 1 1 1
+pca confidence sum
+/m/02r_pp /film/film/film_art_direction_by /m/07hhnl 1 1 1 1
+/m/04v8x9 /film/film/film_art_direction_by /m/0fmqp6 1 1 0 0
+/m/025scjj /film/film/film_art_direction_by /m/072twv 1 1 1 1
+/m/0jqd3 /film/film/film_art_direction_by /m/04gmp_z 1 1 0 0
+/m/0m_h6 /film/film/film_art_direction_by /m/05v1sb 1 1 1 1
+/m/0147sh /film/film/film_art_direction_by /m/04gmp_z 1 1 0 0
+/m/0jwvf /film/film/film_art_direction_by /m/07hhnl 1 1 1 1
+/m/015gm8 /film/film/film_art_direction_by /m/07hhnl 1 1 1 1
+std confidence sum
+/m/02r_pp /film/film/film_art_direction_by /m/07hhnl 1 1 1 1
+/m/04v8x9 /film/film/film_art_direction_by /m/0fmqp6 1 1 0 0
+/m/025scjj /film/film/film_art_direction_by /m/072twv 1 1 1 1
+/m/0jqd3 /film/film/film_art_direction_by /m/04gmp_z 1 1 0 0
+/m/0m_h6 /film/film/film_art_direction_by /m/05v1sb 1 1 1 1
+/m/0147sh /film/film/film_art_direction_by /m/04gmp_z 1 1 0 1
+/m/0jwvf /film/film/film_art_direction_by /m/07hhnl 1 1 1 1
+/m/015gm8 /film/film/film_art_direction_by /m/07hhnl 1 1 1 1

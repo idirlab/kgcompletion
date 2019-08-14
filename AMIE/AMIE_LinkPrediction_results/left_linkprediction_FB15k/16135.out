@@ -1,0 +1,12 @@
+pca confidence count
+/m/0jmbv /sports/sports_team/roster./basketball/basketball_historical_roster_position/player /m/03lh3v 1 1 0 1
+/m/0jmbv /sports/sports_team/roster./basketball/basketball_historical_roster_position/player /m/049sb 1 1 0 1
+std confidence count
+/m/0jmbv /sports/sports_team/roster./basketball/basketball_historical_roster_position/player /m/03lh3v 1 1 0 1
+/m/0jmbv /sports/sports_team/roster./basketball/basketball_historical_roster_position/player /m/049sb 1 1 0 1
+pca confidence sum
+/m/0jmbv /sports/sports_team/roster./basketball/basketball_historical_roster_position/player /m/03lh3v 1 1 0 1
+/m/0jmbv /sports/sports_team/roster./basketball/basketball_historical_roster_position/player /m/049sb 1 1 1 1
+std confidence sum
+/m/0jmbv /sports/sports_team/roster./basketball/basketball_historical_roster_position/player /m/03lh3v 1 1 0 1
+/m/0jmbv /sports/sports_team/roster./basketball/basketball_historical_roster_position/player /m/049sb 1 1 1 1

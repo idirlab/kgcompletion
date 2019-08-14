@@ -1,0 +1,24 @@
+pca confidence count
+/m/02f_k_ /american_football/football_player/position_s /m/02g_6j 0 0 0 0
+/m/0443c /american_football/football_player/position_s /m/06b1q 0 0 0 0
+/m/012gx2 /american_football/football_player/position_s /m/02vkdwz 1 1 1 1
+/m/0f2zc /american_football/football_player/position_s /m/01_9c1 1 1 0 0
+/m/0f2zc /american_football/football_player/position_s /m/05zm34 1 1 0 0
+std confidence count
+/m/02f_k_ /american_football/football_player/position_s /m/02g_6j 1 1 0 1
+/m/0443c /american_football/football_player/position_s /m/06b1q 1 1 0 1
+/m/012gx2 /american_football/football_player/position_s /m/02vkdwz 1 1 1 1
+/m/0f2zc /american_football/football_player/position_s /m/01_9c1 1 1 0 1
+/m/0f2zc /american_football/football_player/position_s /m/05zm34 1 1 1 1
+pca confidence sum
+/m/02f_k_ /american_football/football_player/position_s /m/02g_6j 0 0 0 0
+/m/0443c /american_football/football_player/position_s /m/06b1q 0 1 0 0
+/m/012gx2 /american_football/football_player/position_s /m/02vkdwz 1 1 1 1
+/m/0f2zc /american_football/football_player/position_s /m/01_9c1 0 0 0 0
+/m/0f2zc /american_football/football_player/position_s /m/05zm34 0 0 0 0
+std confidence sum
+/m/02f_k_ /american_football/football_player/position_s /m/02g_6j 0 0 0 0
+/m/0443c /american_football/football_player/position_s /m/06b1q 0 1 0 0
+/m/012gx2 /american_football/football_player/position_s /m/02vkdwz 1 1 1 1
+/m/0f2zc /american_football/football_player/position_s /m/01_9c1 0 0 0 0
+/m/0f2zc /american_football/football_player/position_s /m/05zm34 0 0 0 0

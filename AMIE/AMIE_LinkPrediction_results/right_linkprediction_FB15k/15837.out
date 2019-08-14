@@ -1,0 +1,12 @@
+pca confidence count
+/m/0f8l9c /military/military_combatant/military_commanders./military/military_command/military_commander /m/04pwg 0 0 0 0
+/m/09c7w0 /military/military_combatant/military_commanders./military/military_command/military_commander /m/08959 0 0 0 0
+std confidence count
+/m/0f8l9c /military/military_combatant/military_commanders./military/military_command/military_commander /m/04pwg 1 1 0 1
+/m/09c7w0 /military/military_combatant/military_commanders./military/military_command/military_commander /m/08959 1 1 0 1
+pca confidence sum
+/m/0f8l9c /military/military_combatant/military_commanders./military/military_command/military_commander /m/04pwg 0 0 0 0
+/m/09c7w0 /military/military_combatant/military_commanders./military/military_command/military_commander /m/08959 0 0 0 0
+std confidence sum
+/m/0f8l9c /military/military_combatant/military_commanders./military/military_command/military_commander /m/04pwg 1 1 0 1
+/m/09c7w0 /military/military_combatant/military_commanders./military/military_command/military_commander /m/08959 0 1 0 0

@@ -1,0 +1,20 @@
+pca confidence count
+/m/01pv51 /basketball/basketball_position/players /m/02_nkp 1 1 1 1
+/m/03558l /basketball/basketball_position/players /m/054c1 0 1 0 0
+/m/03558l /basketball/basketball_position/players /m/03l295 0 1 0 0
+/m/03558l /basketball/basketball_position/players /m/04g9sq 0 1 0 0
+std confidence count
+/m/01pv51 /basketball/basketball_position/players /m/02_nkp 1 1 0 1
+/m/03558l /basketball/basketball_position/players /m/054c1 1 1 0 1
+/m/03558l /basketball/basketball_position/players /m/03l295 1 1 0 1
+/m/03558l /basketball/basketball_position/players /m/04g9sq 1 1 0 1
+pca confidence sum
+/m/01pv51 /basketball/basketball_position/players /m/02_nkp 1 1 1 1
+/m/03558l /basketball/basketball_position/players /m/054c1 0 1 0 0
+/m/03558l /basketball/basketball_position/players /m/03l295 0 1 0 0
+/m/03558l /basketball/basketball_position/players /m/04g9sq 1 1 0 1
+std confidence sum
+/m/01pv51 /basketball/basketball_position/players /m/02_nkp 1 1 1 1
+/m/03558l /basketball/basketball_position/players /m/054c1 0 1 0 0
+/m/03558l /basketball/basketball_position/players /m/03l295 0 1 0 0
+/m/03558l /basketball/basketball_position/players /m/04g9sq 1 1 1 1

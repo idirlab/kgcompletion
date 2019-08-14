@@ -1,0 +1,16 @@
+pca confidence count
+/m/060s9 /government/government_office_or_title/office_holders./government/government_position_held/jurisdiction_of_office /m/02jx1 1 1 0 0
+/m/0pqc5 /government/government_office_or_title/office_holders./government/government_position_held/jurisdiction_of_office /m/03x45p 1 1 1 1
+/m/0pqc5 /government/government_office_or_title/office_holders./government/government_position_held/jurisdiction_of_office /m/04lh6 1 1 1 1
+std confidence count
+/m/060s9 /government/government_office_or_title/office_holders./government/government_position_held/jurisdiction_of_office /m/02jx1 1 1 0 1
+/m/0pqc5 /government/government_office_or_title/office_holders./government/government_position_held/jurisdiction_of_office /m/03x45p 1 1 1 1
+/m/0pqc5 /government/government_office_or_title/office_holders./government/government_position_held/jurisdiction_of_office /m/04lh6 1 1 1 1
+pca confidence sum
+/m/060s9 /government/government_office_or_title/office_holders./government/government_position_held/jurisdiction_of_office /m/02jx1 1 1 1 1
+/m/0pqc5 /government/government_office_or_title/office_holders./government/government_position_held/jurisdiction_of_office /m/03x45p 1 1 1 1
+/m/0pqc5 /government/government_office_or_title/office_holders./government/government_position_held/jurisdiction_of_office /m/04lh6 1 1 1 1
+std confidence sum
+/m/060s9 /government/government_office_or_title/office_holders./government/government_position_held/jurisdiction_of_office /m/02jx1 1 1 1 1
+/m/0pqc5 /government/government_office_or_title/office_holders./government/government_position_held/jurisdiction_of_office /m/03x45p 1 1 1 1
+/m/0pqc5 /government/government_office_or_title/office_holders./government/government_position_held/jurisdiction_of_office /m/04lh6 1 1 1 1

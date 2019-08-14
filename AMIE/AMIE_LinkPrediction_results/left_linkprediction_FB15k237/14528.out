@@ -1,0 +1,32 @@
+pca confidence count
+/m/0kf9p /base/biblioness/bibs_location/state /m/081yw 0 0 0 0
+/m/0f__1 /base/biblioness/bibs_location/state /m/0498y 1 1 0 0
+/m/0tzt_ /base/biblioness/bibs_location/state /m/05k7sb 0 0 0 0
+/m/0ckhc /base/biblioness/bibs_location/state /m/081yw 0 0 0 0
+/m/0y1rf /base/biblioness/bibs_location/state /m/059rby 0 0 0 0
+/m/01zqy6t /base/biblioness/bibs_location/state /m/01n7q 0 1 0 0
+/m/071vr /base/biblioness/bibs_location/state /m/01n7q 0 0 0 0
+std confidence count
+/m/0kf9p /base/biblioness/bibs_location/state /m/081yw 1 1 0 0
+/m/0f__1 /base/biblioness/bibs_location/state /m/0498y 1 1 0 1
+/m/0tzt_ /base/biblioness/bibs_location/state /m/05k7sb 0 1 0 0
+/m/0ckhc /base/biblioness/bibs_location/state /m/081yw 0 0 0 0
+/m/0y1rf /base/biblioness/bibs_location/state /m/059rby 0 1 0 0
+/m/01zqy6t /base/biblioness/bibs_location/state /m/01n7q 0 0 0 0
+/m/071vr /base/biblioness/bibs_location/state /m/01n7q 0 0 0 0
+pca confidence sum
+/m/0kf9p /base/biblioness/bibs_location/state /m/081yw 0 0 0 0
+/m/0f__1 /base/biblioness/bibs_location/state /m/0498y 1 1 0 0
+/m/0tzt_ /base/biblioness/bibs_location/state /m/05k7sb 0 0 0 0
+/m/0ckhc /base/biblioness/bibs_location/state /m/081yw 0 0 0 0
+/m/0y1rf /base/biblioness/bibs_location/state /m/059rby 0 0 0 0
+/m/01zqy6t /base/biblioness/bibs_location/state /m/01n7q 0 0 0 0
+/m/071vr /base/biblioness/bibs_location/state /m/01n7q 0 0 0 0
+std confidence sum
+/m/0kf9p /base/biblioness/bibs_location/state /m/081yw 1 1 0 0
+/m/0f__1 /base/biblioness/bibs_location/state /m/0498y 1 1 0 1
+/m/0tzt_ /base/biblioness/bibs_location/state /m/05k7sb 0 1 0 0
+/m/0ckhc /base/biblioness/bibs_location/state /m/081yw 0 0 0 0
+/m/0y1rf /base/biblioness/bibs_location/state /m/059rby 1 1 0 0
+/m/01zqy6t /base/biblioness/bibs_location/state /m/01n7q 0 0 0 0
+/m/071vr /base/biblioness/bibs_location/state /m/01n7q 0 1 0 0

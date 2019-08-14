@@ -1,0 +1,16 @@
+pca confidence count
+/m/0h1yf /medicine/drug/active_moieties /m/0h1yf 1 1 1 1
+/m/014d7f /medicine/drug/active_moieties /m/014d7f 1 1 1 1
+/m/02kb_jm /medicine/drug/active_moieties /m/02kb_jm 1 1 1 1
+std confidence count
+/m/0h1yf /medicine/drug/active_moieties /m/0h1yf 1 1 1 1
+/m/014d7f /medicine/drug/active_moieties /m/014d7f 1 1 1 1
+/m/02kb_jm /medicine/drug/active_moieties /m/02kb_jm 1 1 1 1
+pca confidence sum
+/m/0h1yf /medicine/drug/active_moieties /m/0h1yf 1 1 1 1
+/m/014d7f /medicine/drug/active_moieties /m/014d7f 1 1 1 1
+/m/02kb_jm /medicine/drug/active_moieties /m/02kb_jm 1 1 1 1
+std confidence sum
+/m/0h1yf /medicine/drug/active_moieties /m/0h1yf 1 1 1 1
+/m/014d7f /medicine/drug/active_moieties /m/014d7f 1 1 1 1
+/m/02kb_jm /medicine/drug/active_moieties /m/02kb_jm 1 1 1 1

@@ -1,0 +1,24 @@
+pca confidence count
+/m/0g26h /education/field_of_study/subdiscipline_of /m/09s1f 0 0 0 0
+/m/04jq2 /education/field_of_study/subdiscipline_of /m/06mq7 0 0 0 0
+/m/034ns /education/field_of_study/subdiscipline_of /m/06n6p 0 0 0 0
+/m/06ywtl /education/field_of_study/subdiscipline_of /m/01540 1 1 0 1
+/m/07cj3 /education/field_of_study/subdiscipline_of /m/04rjg 1 1 0 0
+std confidence count
+/m/0g26h /education/field_of_study/subdiscipline_of /m/09s1f 0 0 0 0
+/m/04jq2 /education/field_of_study/subdiscipline_of /m/06mq7 1 1 0 0
+/m/034ns /education/field_of_study/subdiscipline_of /m/06n6p 1 1 0 1
+/m/06ywtl /education/field_of_study/subdiscipline_of /m/01540 1 1 0 1
+/m/07cj3 /education/field_of_study/subdiscipline_of /m/04rjg 1 1 0 1
+pca confidence sum
+/m/0g26h /education/field_of_study/subdiscipline_of /m/09s1f 0 0 0 0
+/m/04jq2 /education/field_of_study/subdiscipline_of /m/06mq7 0 0 0 0
+/m/034ns /education/field_of_study/subdiscipline_of /m/06n6p 0 0 0 0
+/m/06ywtl /education/field_of_study/subdiscipline_of /m/01540 1 1 0 0
+/m/07cj3 /education/field_of_study/subdiscipline_of /m/04rjg 1 1 0 0
+std confidence sum
+/m/0g26h /education/field_of_study/subdiscipline_of /m/09s1f 0 0 0 0
+/m/04jq2 /education/field_of_study/subdiscipline_of /m/06mq7 0 0 0 0
+/m/034ns /education/field_of_study/subdiscipline_of /m/06n6p 0 0 0 0
+/m/06ywtl /education/field_of_study/subdiscipline_of /m/01540 1 1 0 1
+/m/07cj3 /education/field_of_study/subdiscipline_of /m/04rjg 1 1 0 1

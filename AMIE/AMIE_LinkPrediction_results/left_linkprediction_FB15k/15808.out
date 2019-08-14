@@ -1,0 +1,16 @@
+pca confidence count
+/m/0lcdk /medicine/disease/treatments /m/0cd25 0 0 0 0
+/m/0m32h /medicine/disease/treatments /m/0217g 1 1 0 1
+/m/09d11 /medicine/disease/treatments /m/0tbr 0 0 0 0
+std confidence count
+/m/0lcdk /medicine/disease/treatments /m/0cd25 0 1 0 1
+/m/0m32h /medicine/disease/treatments /m/0217g 1 1 0 1
+/m/09d11 /medicine/disease/treatments /m/0tbr 1 1 0 0
+pca confidence sum
+/m/0lcdk /medicine/disease/treatments /m/0cd25 0 0 0 0
+/m/0m32h /medicine/disease/treatments /m/0217g 1 1 0 1
+/m/09d11 /medicine/disease/treatments /m/0tbr 0 1 0 0
+std confidence sum
+/m/0lcdk /medicine/disease/treatments /m/0cd25 0 0 0 0
+/m/0m32h /medicine/disease/treatments /m/0217g 1 1 0 1
+/m/09d11 /medicine/disease/treatments /m/0tbr 0 1 0 0

@@ -1,0 +1,20 @@
+pca confidence count
+/m/0cgqx /government/government_office_or_title/office_holders./government/government_position_held/legislative_sessions /m/01grmk 0 1 0 0
+/m/0cgqx /government/government_office_or_title/office_holders./government/government_position_held/legislative_sessions /m/06f0dc 1 1 0 1
+/m/0cgqx /government/government_office_or_title/office_holders./government/government_position_held/legislative_sessions /m/01gtcc 0 1 0 0
+/m/0cgqx /government/government_office_or_title/office_holders./government/government_position_held/legislative_sessions /m/01grp0 0 1 0 0
+std confidence count
+/m/0cgqx /government/government_office_or_title/office_holders./government/government_position_held/legislative_sessions /m/01grmk 0 1 0 0
+/m/0cgqx /government/government_office_or_title/office_holders./government/government_position_held/legislative_sessions /m/06f0dc 0 1 0 0
+/m/0cgqx /government/government_office_or_title/office_holders./government/government_position_held/legislative_sessions /m/01gtcc 0 1 0 1
+/m/0cgqx /government/government_office_or_title/office_holders./government/government_position_held/legislative_sessions /m/01grp0 0 1 0 0
+pca confidence sum
+/m/0cgqx /government/government_office_or_title/office_holders./government/government_position_held/legislative_sessions /m/01grmk 0 1 0 0
+/m/0cgqx /government/government_office_or_title/office_holders./government/government_position_held/legislative_sessions /m/06f0dc 1 1 0 1
+/m/0cgqx /government/government_office_or_title/office_holders./government/government_position_held/legislative_sessions /m/01gtcc 0 1 0 0
+/m/0cgqx /government/government_office_or_title/office_holders./government/government_position_held/legislative_sessions /m/01grp0 0 1 0 0
+std confidence sum
+/m/0cgqx /government/government_office_or_title/office_holders./government/government_position_held/legislative_sessions /m/01grmk 0 1 0 0
+/m/0cgqx /government/government_office_or_title/office_holders./government/government_position_held/legislative_sessions /m/06f0dc 1 1 0 1
+/m/0cgqx /government/government_office_or_title/office_holders./government/government_position_held/legislative_sessions /m/01gtcc 0 1 0 0
+/m/0cgqx /government/government_office_or_title/office_holders./government/government_position_held/legislative_sessions /m/01grp0 0 1 0 0

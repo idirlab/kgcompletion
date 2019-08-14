@@ -1,0 +1,20 @@
+pca confidence count
+/m/0vmt /location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency /m/09nqf 0 0 0 0
+/m/0gyh /location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency /m/09nqf 0 0 0 0
+/m/059_c /location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency /m/09nqf 0 0 0 0
+/m/03s0w /location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency /m/09nqf 0 0 0 0
+std confidence count
+/m/0vmt /location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency /m/09nqf 0 0 0 0
+/m/0gyh /location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency /m/09nqf 0 1 0 0
+/m/059_c /location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency /m/09nqf 0 0 0 0
+/m/03s0w /location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency /m/09nqf 0 0 0 0
+pca confidence sum
+/m/0vmt /location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency /m/09nqf 0 0 0 0
+/m/0gyh /location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency /m/09nqf 0 0 0 0
+/m/059_c /location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency /m/09nqf 0 0 0 0
+/m/03s0w /location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency /m/09nqf 0 0 0 0
+std confidence sum
+/m/0vmt /location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency /m/09nqf 0 0 0 0
+/m/0gyh /location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency /m/09nqf 0 0 0 0
+/m/059_c /location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency /m/09nqf 0 0 0 0
+/m/03s0w /location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency /m/09nqf 0 0 0 0

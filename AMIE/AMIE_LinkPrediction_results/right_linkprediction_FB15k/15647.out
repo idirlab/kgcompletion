@@ -1,0 +1,20 @@
+pca confidence count
+/m/0c0cs /government/governmental_body/members./government/government_position_held/appointed_by /m/0d3k14 0 0 0 0
+/m/07vsl /government/governmental_body/members./government/government_position_held/appointed_by /m/08959 0 0 0 0
+/m/07x_h /government/governmental_body/members./government/government_position_held/appointed_by /m/0b22w 0 1 0 0
+/m/07x_h /government/governmental_body/members./government/government_position_held/appointed_by /m/03kdl 0 0 0 0
+std confidence count
+/m/0c0cs /government/governmental_body/members./government/government_position_held/appointed_by /m/0d3k14 0 1 0 1
+/m/07vsl /government/governmental_body/members./government/government_position_held/appointed_by /m/08959 1 1 0 1
+/m/07x_h /government/governmental_body/members./government/government_position_held/appointed_by /m/0b22w 0 1 0 0
+/m/07x_h /government/governmental_body/members./government/government_position_held/appointed_by /m/03kdl 0 1 0 0
+pca confidence sum
+/m/0c0cs /government/governmental_body/members./government/government_position_held/appointed_by /m/0d3k14 1 1 0 1
+/m/07vsl /government/governmental_body/members./government/government_position_held/appointed_by /m/08959 0 0 0 0
+/m/07x_h /government/governmental_body/members./government/government_position_held/appointed_by /m/0b22w 0 1 0 1
+/m/07x_h /government/governmental_body/members./government/government_position_held/appointed_by /m/03kdl 0 1 0 0
+std confidence sum
+/m/0c0cs /government/governmental_body/members./government/government_position_held/appointed_by /m/0d3k14 1 1 0 1
+/m/07vsl /government/governmental_body/members./government/government_position_held/appointed_by /m/08959 0 0 0 0
+/m/07x_h /government/governmental_body/members./government/government_position_held/appointed_by /m/0b22w 0 1 0 1
+/m/07x_h /government/governmental_body/members./government/government_position_held/appointed_by /m/03kdl 0 1 0 0

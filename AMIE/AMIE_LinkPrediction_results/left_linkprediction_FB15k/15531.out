@@ -1,0 +1,44 @@
+pca confidence count
+/m/06x77g /film/film/film_set_decoration_by /m/05b4rcb 1 1 0 1
+/m/0jqd3 /film/film/film_set_decoration_by /m/0584j4n 1 1 0 1
+/m/048rn /film/film/film_set_decoration_by /m/0cb77r 0 0 0 0
+/m/09qycb /film/film/film_set_decoration_by /m/057bc6m 0 1 0 0
+/m/014knw /film/film/film_set_decoration_by /m/057bc6m 0 1 0 0
+/m/0gxfz /film/film/film_set_decoration_by /m/076lxv 1 1 0 1
+/m/0cq8qq /film/film/film_set_decoration_by /m/0cb77r 1 1 0 1
+/m/02r_pp /film/film/film_set_decoration_by /m/051x52f 0 0 0 0
+/m/03bdkd /film/film/film_set_decoration_by /m/0cb77r 1 1 0 0
+/m/03kxj2 /film/film/film_set_decoration_by /m/05b4rcb 1 1 0 1
+std confidence count
+/m/06x77g /film/film/film_set_decoration_by /m/05b4rcb 1 1 0 1
+/m/0jqd3 /film/film/film_set_decoration_by /m/0584j4n 1 1 0 1
+/m/048rn /film/film/film_set_decoration_by /m/0cb77r 1 1 0 1
+/m/09qycb /film/film/film_set_decoration_by /m/057bc6m 1 1 0 1
+/m/014knw /film/film/film_set_decoration_by /m/057bc6m 1 1 0 1
+/m/0gxfz /film/film/film_set_decoration_by /m/076lxv 1 1 0 1
+/m/0cq8qq /film/film/film_set_decoration_by /m/0cb77r 1 1 0 1
+/m/02r_pp /film/film/film_set_decoration_by /m/051x52f 1 1 0 1
+/m/03bdkd /film/film/film_set_decoration_by /m/0cb77r 1 1 0 1
+/m/03kxj2 /film/film/film_set_decoration_by /m/05b4rcb 1 1 1 1
+pca confidence sum
+/m/06x77g /film/film/film_set_decoration_by /m/05b4rcb 1 1 0 1
+/m/0jqd3 /film/film/film_set_decoration_by /m/0584j4n 1 1 0 1
+/m/048rn /film/film/film_set_decoration_by /m/0cb77r 0 0 0 0
+/m/09qycb /film/film/film_set_decoration_by /m/057bc6m 0 0 0 0
+/m/014knw /film/film/film_set_decoration_by /m/057bc6m 1 1 0 0
+/m/0gxfz /film/film/film_set_decoration_by /m/076lxv 1 1 0 1
+/m/0cq8qq /film/film/film_set_decoration_by /m/0cb77r 1 1 0 1
+/m/02r_pp /film/film/film_set_decoration_by /m/051x52f 0 0 0 0
+/m/03bdkd /film/film/film_set_decoration_by /m/0cb77r 1 1 0 1
+/m/03kxj2 /film/film/film_set_decoration_by /m/05b4rcb 1 1 0 1
+std confidence sum
+/m/06x77g /film/film/film_set_decoration_by /m/05b4rcb 1 1 0 1
+/m/0jqd3 /film/film/film_set_decoration_by /m/0584j4n 1 1 0 1
+/m/048rn /film/film/film_set_decoration_by /m/0cb77r 0 0 0 0
+/m/09qycb /film/film/film_set_decoration_by /m/057bc6m 0 0 0 0
+/m/014knw /film/film/film_set_decoration_by /m/057bc6m 1 1 0 1
+/m/0gxfz /film/film/film_set_decoration_by /m/076lxv 1 1 0 1
+/m/0cq8qq /film/film/film_set_decoration_by /m/0cb77r 1 1 1 1
+/m/02r_pp /film/film/film_set_decoration_by /m/051x52f 1 1 0 0
+/m/03bdkd /film/film/film_set_decoration_by /m/0cb77r 1 1 0 1
+/m/03kxj2 /film/film/film_set_decoration_by /m/05b4rcb 1 1 1 1

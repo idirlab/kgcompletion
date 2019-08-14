@@ -1,0 +1,28 @@
+pca confidence count
+/m/04n0p /language/language_writing_system/languages /m/0y1mh 0 0 0 0
+/m/04n0p /language/language_writing_system/languages /m/02hxc3j 0 0 0 0
+/m/04n0p /language/language_writing_system/languages /m/02bv9 0 1 0 0
+/m/01pyw /language/language_writing_system/languages /m/01bkv 1 1 0 0
+/m/04n0p /language/language_writing_system/languages /m/07qv_ 0 1 0 0
+/m/04n0p /language/language_writing_system/languages /m/0295r 0 0 0 0
+std confidence count
+/m/04n0p /language/language_writing_system/languages /m/0y1mh 0 1 0 0
+/m/04n0p /language/language_writing_system/languages /m/02hxc3j 0 1 0 0
+/m/04n0p /language/language_writing_system/languages /m/02bv9 0 1 0 0
+/m/01pyw /language/language_writing_system/languages /m/01bkv 1 1 0 1
+/m/04n0p /language/language_writing_system/languages /m/07qv_ 0 1 0 0
+/m/04n0p /language/language_writing_system/languages /m/0295r 0 1 0 0
+pca confidence sum
+/m/04n0p /language/language_writing_system/languages /m/0y1mh 0 0 0 0
+/m/04n0p /language/language_writing_system/languages /m/02hxc3j 0 0 0 0
+/m/04n0p /language/language_writing_system/languages /m/02bv9 0 0 0 0
+/m/01pyw /language/language_writing_system/languages /m/01bkv 1 1 0 0
+/m/04n0p /language/language_writing_system/languages /m/07qv_ 0 0 0 0
+/m/04n0p /language/language_writing_system/languages /m/0295r 0 0 0 0
+std confidence sum
+/m/04n0p /language/language_writing_system/languages /m/0y1mh 0 0 0 0
+/m/04n0p /language/language_writing_system/languages /m/02hxc3j 0 1 0 0
+/m/04n0p /language/language_writing_system/languages /m/02bv9 0 1 0 0
+/m/01pyw /language/language_writing_system/languages /m/01bkv 1 1 0 1
+/m/04n0p /language/language_writing_system/languages /m/07qv_ 0 1 0 0
+/m/04n0p /language/language_writing_system/languages /m/0295r 0 0 0 0

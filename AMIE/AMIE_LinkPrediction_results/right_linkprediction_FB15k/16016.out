@@ -1,0 +1,16 @@
+pca confidence count
+/m/0v53x /religion/religion/is_part_of /m/019cr 1 1 0 0
+/m/0631_ /religion/religion/is_part_of /m/01t7j 1 1 0 0
+/m/019cr /religion/religion/is_part_of /m/01lp8 1 1 0 1
+std confidence count
+/m/0v53x /religion/religion/is_part_of /m/019cr 1 1 1 1
+/m/0631_ /religion/religion/is_part_of /m/01t7j 1 1 1 1
+/m/019cr /religion/religion/is_part_of /m/01lp8 1 1 0 1
+pca confidence sum
+/m/0v53x /religion/religion/is_part_of /m/019cr 1 1 0 0
+/m/0631_ /religion/religion/is_part_of /m/01t7j 1 1 0 0
+/m/019cr /religion/religion/is_part_of /m/01lp8 1 1 0 1
+std confidence sum
+/m/0v53x /religion/religion/is_part_of /m/019cr 1 1 1 1
+/m/0631_ /religion/religion/is_part_of /m/01t7j 1 1 0 0
+/m/019cr /religion/religion/is_part_of /m/01lp8 1 1 0 1

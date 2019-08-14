@@ -1,0 +1,12 @@
+pca confidence count
+/m/06b_j /language/human_language/region /m/02qkt 1 1 0 0
+/m/0y1mh /language/human_language/region /m/0j0k 1 1 0 0
+std confidence count
+/m/06b_j /language/human_language/region /m/02qkt 1 1 0 0
+/m/0y1mh /language/human_language/region /m/0j0k 0 1 0 0
+pca confidence sum
+/m/06b_j /language/human_language/region /m/02qkt 1 1 0 0
+/m/0y1mh /language/human_language/region /m/0j0k 0 1 0 0
+std confidence sum
+/m/06b_j /language/human_language/region /m/02qkt 1 1 0 0
+/m/0y1mh /language/human_language/region /m/0j0k 0 1 0 0

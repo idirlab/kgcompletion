@@ -1,0 +1,52 @@
+pca confidence count
+/m/040fb /base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months /m/02xx5 1 1 0 1
+/m/0lkm /base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months /m/03_ly 1 1 0 1
+/m/040fb /base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months /m/040fv 1 1 0 1
+/m/040fv /base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months /m/05cw8 1 1 0 0
+/m/05cw8 /base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months /m/0lkm 1 1 0 1
+/m/06vkl /base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months /m/05lf_ 1 1 0 1
+/m/04wzr /base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months /m/05lf_ 1 1 0 1
+/m/028kb /base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months /m/040fv 1 1 0 1
+/m/05lf_ /base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months /m/0lkm 1 1 0 1
+/m/05cw8 /base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months /m/04wzr 1 1 0 0
+/m/0ll3 /base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months /m/03_ly 1 1 0 1
+/m/040fv /base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months /m/028kb 1 1 0 1
+std confidence count
+/m/040fb /base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months /m/02xx5 1 1 0 1
+/m/0lkm /base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months /m/03_ly 1 1 0 1
+/m/040fb /base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months /m/040fv 1 1 0 1
+/m/040fv /base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months /m/05cw8 1 1 0 0
+/m/05cw8 /base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months /m/0lkm 1 1 0 1
+/m/06vkl /base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months /m/05lf_ 1 1 0 1
+/m/04wzr /base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months /m/05lf_ 1 1 0 1
+/m/028kb /base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months /m/040fv 1 1 0 1
+/m/05lf_ /base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months /m/0lkm 1 1 0 1
+/m/05cw8 /base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months /m/04wzr 1 1 0 0
+/m/0ll3 /base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months /m/03_ly 1 1 0 1
+/m/040fv /base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months /m/028kb 1 1 0 1
+pca confidence sum
+/m/040fb /base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months /m/02xx5 0 1 0 0
+/m/0lkm /base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months /m/03_ly 1 1 0 1
+/m/040fb /base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months /m/040fv 0 1 0 0
+/m/040fv /base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months /m/05cw8 0 1 0 0
+/m/05cw8 /base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months /m/0lkm 1 1 0 1
+/m/06vkl /base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months /m/05lf_ 1 1 0 1
+/m/04wzr /base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months /m/05lf_ 1 1 0 1
+/m/028kb /base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months /m/040fv 1 1 0 1
+/m/05lf_ /base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months /m/0lkm 0 1 0 0
+/m/05cw8 /base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months /m/04wzr 1 1 0 1
+/m/0ll3 /base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months /m/03_ly 1 1 0 1
+/m/040fv /base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months /m/028kb 0 1 0 0
+std confidence sum
+/m/040fb /base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months /m/02xx5 0 1 0 0
+/m/0lkm /base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months /m/03_ly 1 1 0 1
+/m/040fb /base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months /m/040fv 0 1 0 0
+/m/040fv /base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months /m/05cw8 0 1 0 0
+/m/05cw8 /base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months /m/0lkm 1 1 0 1
+/m/06vkl /base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months /m/05lf_ 1 1 0 1
+/m/04wzr /base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months /m/05lf_ 1 1 0 1
+/m/028kb /base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months /m/040fv 1 1 0 1
+/m/05lf_ /base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months /m/0lkm 0 1 0 0
+/m/05cw8 /base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months /m/04wzr 1 1 0 1
+/m/0ll3 /base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months /m/03_ly 1 1 0 1
+/m/040fv /base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months /m/028kb 0 1 0 0

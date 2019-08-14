@@ -1,0 +1,24 @@
+pca confidence count
+/m/07657k /computer/programming_language/influenced_by /m/07sbkfb 1 1 0 1
+/m/05z1_ /computer/programming_language/influenced_by /m/04kyw 1 1 0 1
+/m/060kv /computer/programming_language/influenced_by /m/05z1_ 1 1 0 1
+/m/060kv /computer/programming_language/influenced_by /m/07657k 1 1 0 1
+/m/02p97 /computer/programming_language/influenced_by /m/04kyw 1 1 0 1
+std confidence count
+/m/07657k /computer/programming_language/influenced_by /m/07sbkfb 1 1 0 1
+/m/05z1_ /computer/programming_language/influenced_by /m/04kyw 1 1 0 1
+/m/060kv /computer/programming_language/influenced_by /m/05z1_ 1 1 0 1
+/m/060kv /computer/programming_language/influenced_by /m/07657k 1 1 0 1
+/m/02p97 /computer/programming_language/influenced_by /m/04kyw 1 1 0 1
+pca confidence sum
+/m/07657k /computer/programming_language/influenced_by /m/07sbkfb 1 1 0 1
+/m/05z1_ /computer/programming_language/influenced_by /m/04kyw 1 1 0 0
+/m/060kv /computer/programming_language/influenced_by /m/05z1_ 1 1 0 1
+/m/060kv /computer/programming_language/influenced_by /m/07657k 1 1 0 0
+/m/02p97 /computer/programming_language/influenced_by /m/04kyw 1 1 0 0
+std confidence sum
+/m/07657k /computer/programming_language/influenced_by /m/07sbkfb 1 1 0 1
+/m/05z1_ /computer/programming_language/influenced_by /m/04kyw 1 1 0 0
+/m/060kv /computer/programming_language/influenced_by /m/05z1_ 1 1 0 1
+/m/060kv /computer/programming_language/influenced_by /m/07657k 1 1 0 0
+/m/02p97 /computer/programming_language/influenced_by /m/04kyw 1 1 0 0

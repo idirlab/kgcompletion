@@ -1,0 +1,16 @@
+pca confidence count
+/m/02px_23 /sports/sports_team/roster./american_football/football_roster_position/position /m/02vkdwz 0 0 0 0
+/m/04vn5 /sports/sports_team/roster./american_football/football_roster_position/position /m/05zm34 0 0 0 0
+/m/06rny /sports/sports_team/roster./american_football/football_roster_position/position /m/08ns5s 0 1 0 1
+std confidence count
+/m/02px_23 /sports/sports_team/roster./american_football/football_roster_position/position /m/02vkdwz 0 1 0 0
+/m/04vn5 /sports/sports_team/roster./american_football/football_roster_position/position /m/05zm34 0 0 0 0
+/m/06rny /sports/sports_team/roster./american_football/football_roster_position/position /m/08ns5s 0 1 0 0
+pca confidence sum
+/m/02px_23 /sports/sports_team/roster./american_football/football_roster_position/position /m/02vkdwz 0 1 0 0
+/m/04vn5 /sports/sports_team/roster./american_football/football_roster_position/position /m/05zm34 0 1 0 0
+/m/06rny /sports/sports_team/roster./american_football/football_roster_position/position /m/08ns5s 0 1 0 0
+std confidence sum
+/m/02px_23 /sports/sports_team/roster./american_football/football_roster_position/position /m/02vkdwz 0 0 0 0
+/m/04vn5 /sports/sports_team/roster./american_football/football_roster_position/position /m/05zm34 0 1 0 0
+/m/06rny /sports/sports_team/roster./american_football/football_roster_position/position /m/08ns5s 0 1 0 0

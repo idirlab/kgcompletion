@@ -1,0 +1,48 @@
+pca confidence count
+/m/025w401 /business/company_type/companies_of_this_type /m/031rx9 0 0 0 0
+/m/025w401 /business/company_type/companies_of_this_type /m/0381pn 0 0 0 0
+/m/025w401 /business/company_type/companies_of_this_type /m/04rcl7 0 0 0 0
+/m/025w401 /business/company_type/companies_of_this_type /m/06rfy5 0 0 0 0
+/m/01mxzw /business/company_type/companies_of_this_type /m/025txrl 0 1 0 0
+/m/01prdc /business/company_type/companies_of_this_type /m/0123j6 0 0 0 0
+/m/01prdc /business/company_type/companies_of_this_type /m/04f525m 0 1 0 0
+/m/025w401 /business/company_type/companies_of_this_type /m/01cszh 0 0 0 0
+/m/023k2 /business/company_type/companies_of_this_type /m/01tmng 0 0 0 0
+/m/023k2 /business/company_type/companies_of_this_type /m/02zs4 1 1 0 0
+/m/023k2 /business/company_type/companies_of_this_type /m/03bnb 0 0 0 0
+std confidence count
+/m/025w401 /business/company_type/companies_of_this_type /m/031rx9 0 1 0 1
+/m/025w401 /business/company_type/companies_of_this_type /m/0381pn 0 1 0 1
+/m/025w401 /business/company_type/companies_of_this_type /m/04rcl7 0 1 0 1
+/m/025w401 /business/company_type/companies_of_this_type /m/06rfy5 0 1 0 1
+/m/01mxzw /business/company_type/companies_of_this_type /m/025txrl 0 1 0 1
+/m/01prdc /business/company_type/companies_of_this_type /m/0123j6 0 0 0 0
+/m/01prdc /business/company_type/companies_of_this_type /m/04f525m 1 1 0 1
+/m/025w401 /business/company_type/companies_of_this_type /m/01cszh 0 1 0 1
+/m/023k2 /business/company_type/companies_of_this_type /m/01tmng 0 1 0 1
+/m/023k2 /business/company_type/companies_of_this_type /m/02zs4 0 1 0 1
+/m/023k2 /business/company_type/companies_of_this_type /m/03bnb 0 1 0 1
+pca confidence sum
+/m/025w401 /business/company_type/companies_of_this_type /m/031rx9 0 0 0 0
+/m/025w401 /business/company_type/companies_of_this_type /m/0381pn 0 0 0 0
+/m/025w401 /business/company_type/companies_of_this_type /m/04rcl7 0 0 0 0
+/m/025w401 /business/company_type/companies_of_this_type /m/06rfy5 0 0 0 0
+/m/01mxzw /business/company_type/companies_of_this_type /m/025txrl 0 0 0 0
+/m/01prdc /business/company_type/companies_of_this_type /m/0123j6 0 0 0 0
+/m/01prdc /business/company_type/companies_of_this_type /m/04f525m 0 1 0 0
+/m/025w401 /business/company_type/companies_of_this_type /m/01cszh 0 0 0 0
+/m/023k2 /business/company_type/companies_of_this_type /m/01tmng 0 0 0 0
+/m/023k2 /business/company_type/companies_of_this_type /m/02zs4 0 1 0 0
+/m/023k2 /business/company_type/companies_of_this_type /m/03bnb 0 0 0 0
+std confidence sum
+/m/025w401 /business/company_type/companies_of_this_type /m/031rx9 0 0 0 0
+/m/025w401 /business/company_type/companies_of_this_type /m/0381pn 0 0 0 0
+/m/025w401 /business/company_type/companies_of_this_type /m/04rcl7 0 1 0 0
+/m/025w401 /business/company_type/companies_of_this_type /m/06rfy5 0 0 0 0
+/m/01mxzw /business/company_type/companies_of_this_type /m/025txrl 0 1 0 0
+/m/01prdc /business/company_type/companies_of_this_type /m/0123j6 0 0 0 0
+/m/01prdc /business/company_type/companies_of_this_type /m/04f525m 1 1 0 0
+/m/025w401 /business/company_type/companies_of_this_type /m/01cszh 0 1 0 0
+/m/023k2 /business/company_type/companies_of_this_type /m/01tmng 0 0 0 0
+/m/023k2 /business/company_type/companies_of_this_type /m/02zs4 0 1 0 0
+/m/023k2 /business/company_type/companies_of_this_type /m/03bnb 0 1 0 0

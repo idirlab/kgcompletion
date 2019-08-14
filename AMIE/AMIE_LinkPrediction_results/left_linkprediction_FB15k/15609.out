@@ -1,0 +1,12 @@
+pca confidence count
+/m/01nkt /food/ingredient/incompatible_with_dietary_restrictions /m/07_hy 1 1 0 1
+/m/019jw /food/ingredient/incompatible_with_dietary_restrictions /m/07_hy 0 1 0 0
+std confidence count
+/m/01nkt /food/ingredient/incompatible_with_dietary_restrictions /m/07_hy 1 1 0 1
+/m/019jw /food/ingredient/incompatible_with_dietary_restrictions /m/07_hy 1 1 0 1
+pca confidence sum
+/m/01nkt /food/ingredient/incompatible_with_dietary_restrictions /m/07_hy 1 1 0 1
+/m/019jw /food/ingredient/incompatible_with_dietary_restrictions /m/07_hy 0 0 0 0
+std confidence sum
+/m/01nkt /food/ingredient/incompatible_with_dietary_restrictions /m/07_hy 1 1 0 1
+/m/019jw /food/ingredient/incompatible_with_dietary_restrictions /m/07_hy 0 0 0 0

@@ -1,0 +1,16 @@
+pca confidence count
+/m/0bqch /visual_art/visual_artist/associated_periods_or_movements /m/018dx9 1 1 1 1
+/m/01nz1q6 /visual_art/visual_artist/associated_periods_or_movements /m/018dx9 0 0 0 0
+/m/0gct_ /visual_art/visual_artist/associated_periods_or_movements /m/03xj1 1 1 1 1
+std confidence count
+/m/0bqch /visual_art/visual_artist/associated_periods_or_movements /m/018dx9 1 1 1 1
+/m/01nz1q6 /visual_art/visual_artist/associated_periods_or_movements /m/018dx9 0 0 0 0
+/m/0gct_ /visual_art/visual_artist/associated_periods_or_movements /m/03xj1 1 1 1 1
+pca confidence sum
+/m/0bqch /visual_art/visual_artist/associated_periods_or_movements /m/018dx9 1 1 0 0
+/m/01nz1q6 /visual_art/visual_artist/associated_periods_or_movements /m/018dx9 0 0 0 0
+/m/0gct_ /visual_art/visual_artist/associated_periods_or_movements /m/03xj1 1 1 0 0
+std confidence sum
+/m/0bqch /visual_art/visual_artist/associated_periods_or_movements /m/018dx9 1 1 1 1
+/m/01nz1q6 /visual_art/visual_artist/associated_periods_or_movements /m/018dx9 0 0 0 0
+/m/0gct_ /visual_art/visual_artist/associated_periods_or_movements /m/03xj1 1 1 0 0

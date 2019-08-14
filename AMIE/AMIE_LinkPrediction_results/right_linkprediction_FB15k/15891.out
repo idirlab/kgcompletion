@@ -1,0 +1,16 @@
+pca confidence count
+/m/051q39 /olympics/olympic_athlete/country./olympics/olympic_athlete_affiliation/country /m/06mkj 1 1 1 1
+/m/02v_4xv /olympics/olympic_athlete/country./olympics/olympic_athlete_affiliation/country /m/015fr 1 1 1 1
+/m/09n70c /olympics/olympic_athlete/country./olympics/olympic_athlete_affiliation/country /m/077qn 1 1 1 1
+std confidence count
+/m/051q39 /olympics/olympic_athlete/country./olympics/olympic_athlete_affiliation/country /m/06mkj 1 1 1 1
+/m/02v_4xv /olympics/olympic_athlete/country./olympics/olympic_athlete_affiliation/country /m/015fr 1 1 1 1
+/m/09n70c /olympics/olympic_athlete/country./olympics/olympic_athlete_affiliation/country /m/077qn 1 1 1 1
+pca confidence sum
+/m/051q39 /olympics/olympic_athlete/country./olympics/olympic_athlete_affiliation/country /m/06mkj 1 1 0 0
+/m/02v_4xv /olympics/olympic_athlete/country./olympics/olympic_athlete_affiliation/country /m/015fr 1 1 1 1
+/m/09n70c /olympics/olympic_athlete/country./olympics/olympic_athlete_affiliation/country /m/077qn 1 1 0 0
+std confidence sum
+/m/051q39 /olympics/olympic_athlete/country./olympics/olympic_athlete_affiliation/country /m/06mkj 1 1 0 0
+/m/02v_4xv /olympics/olympic_athlete/country./olympics/olympic_athlete_affiliation/country /m/015fr 1 1 1 1
+/m/09n70c /olympics/olympic_athlete/country./olympics/olympic_athlete_affiliation/country /m/077qn 1 1 0 0

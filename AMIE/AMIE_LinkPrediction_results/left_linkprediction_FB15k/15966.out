@@ -1,0 +1,48 @@
+pca confidence count
+/m/0cm03 /people/deceased_person/place_of_burial /m/0bqyhk 1 1 0 0
+/m/0gry51 /people/deceased_person/place_of_burial /m/018mrd 1 1 0 1
+/m/04n_g /people/deceased_person/place_of_burial /m/0lbp_ 0 0 0 0
+/m/05f0r8 /people/deceased_person/place_of_burial /m/018mmj 0 0 0 0
+/m/015qq1 /people/deceased_person/place_of_burial /m/018mmw 0 0 0 0
+/m/036jp8 /people/deceased_person/place_of_burial /m/018mmj 0 0 0 0
+/m/02nygk /people/deceased_person/place_of_burial /m/018mmw 0 0 0 0
+/m/01y8cr /people/deceased_person/place_of_burial /m/018mm4 0 0 0 0
+/m/01g42 /people/deceased_person/place_of_burial /m/018mm4 0 0 0 0
+/m/01tw31 /people/deceased_person/place_of_burial /m/03rt9 1 1 1 1
+/m/0gm34 /people/deceased_person/place_of_burial /m/018mmw 0 0 0 0
+std confidence count
+/m/0cm03 /people/deceased_person/place_of_burial /m/0bqyhk 1 1 0 0
+/m/0gry51 /people/deceased_person/place_of_burial /m/018mrd 1 1 0 1
+/m/04n_g /people/deceased_person/place_of_burial /m/0lbp_ 1 1 0 1
+/m/05f0r8 /people/deceased_person/place_of_burial /m/018mmj 0 0 0 0
+/m/015qq1 /people/deceased_person/place_of_burial /m/018mmw 0 0 0 0
+/m/036jp8 /people/deceased_person/place_of_burial /m/018mmj 0 0 0 0
+/m/02nygk /people/deceased_person/place_of_burial /m/018mmw 0 1 0 1
+/m/01y8cr /people/deceased_person/place_of_burial /m/018mm4 0 1 0 1
+/m/01g42 /people/deceased_person/place_of_burial /m/018mm4 1 1 0 1
+/m/01tw31 /people/deceased_person/place_of_burial /m/03rt9 1 1 1 1
+/m/0gm34 /people/deceased_person/place_of_burial /m/018mmw 0 1 0 1
+pca confidence sum
+/m/0cm03 /people/deceased_person/place_of_burial /m/0bqyhk 1 1 0 0
+/m/0gry51 /people/deceased_person/place_of_burial /m/018mrd 1 1 0 0
+/m/04n_g /people/deceased_person/place_of_burial /m/0lbp_ 0 0 0 0
+/m/05f0r8 /people/deceased_person/place_of_burial /m/018mmj 0 0 0 0
+/m/015qq1 /people/deceased_person/place_of_burial /m/018mmw 0 0 0 0
+/m/036jp8 /people/deceased_person/place_of_burial /m/018mmj 0 0 0 0
+/m/02nygk /people/deceased_person/place_of_burial /m/018mmw 0 0 0 0
+/m/01y8cr /people/deceased_person/place_of_burial /m/018mm4 0 0 0 0
+/m/01g42 /people/deceased_person/place_of_burial /m/018mm4 0 0 0 0
+/m/01tw31 /people/deceased_person/place_of_burial /m/03rt9 1 1 1 1
+/m/0gm34 /people/deceased_person/place_of_burial /m/018mmw 0 0 0 0
+std confidence sum
+/m/0cm03 /people/deceased_person/place_of_burial /m/0bqyhk 1 1 0 0
+/m/0gry51 /people/deceased_person/place_of_burial /m/018mrd 1 1 0 1
+/m/04n_g /people/deceased_person/place_of_burial /m/0lbp_ 1 1 0 0
+/m/05f0r8 /people/deceased_person/place_of_burial /m/018mmj 0 0 0 0
+/m/015qq1 /people/deceased_person/place_of_burial /m/018mmw 0 0 0 0
+/m/036jp8 /people/deceased_person/place_of_burial /m/018mmj 0 0 0 0
+/m/02nygk /people/deceased_person/place_of_burial /m/018mmw 0 1 0 0
+/m/01y8cr /people/deceased_person/place_of_burial /m/018mm4 0 1 0 1
+/m/01g42 /people/deceased_person/place_of_burial /m/018mm4 0 1 0 1
+/m/01tw31 /people/deceased_person/place_of_burial /m/03rt9 1 1 1 1
+/m/0gm34 /people/deceased_person/place_of_burial /m/018mmw 0 1 0 0

@@ -1,0 +1,16 @@
+pca confidence count
+/m/0hcs3 /baseball/baseball_player/former_teams./baseball/baseball_historical_roster_position/team /m/05g76 1 1 0 0
+/m/0hcs3 /baseball/baseball_player/former_teams./baseball/baseball_historical_roster_position/team /m/07147 0 1 0 0
+/m/03n69x /baseball/baseball_player/former_teams./baseball/baseball_historical_roster_position/team /m/0x2p 0 0 0 0
+std confidence count
+/m/0hcs3 /baseball/baseball_player/former_teams./baseball/baseball_historical_roster_position/team /m/05g76 1 1 0 1
+/m/0hcs3 /baseball/baseball_player/former_teams./baseball/baseball_historical_roster_position/team /m/07147 1 1 0 1
+/m/03n69x /baseball/baseball_player/former_teams./baseball/baseball_historical_roster_position/team /m/0x2p 1 1 0 1
+pca confidence sum
+/m/0hcs3 /baseball/baseball_player/former_teams./baseball/baseball_historical_roster_position/team /m/05g76 1 1 0 1
+/m/0hcs3 /baseball/baseball_player/former_teams./baseball/baseball_historical_roster_position/team /m/07147 1 1 0 1
+/m/03n69x /baseball/baseball_player/former_teams./baseball/baseball_historical_roster_position/team /m/0x2p 1 1 0 1
+std confidence sum
+/m/0hcs3 /baseball/baseball_player/former_teams./baseball/baseball_historical_roster_position/team /m/05g76 1 1 0 1
+/m/0hcs3 /baseball/baseball_player/former_teams./baseball/baseball_historical_roster_position/team /m/07147 1 1 0 1
+/m/03n69x /baseball/baseball_player/former_teams./baseball/baseball_historical_roster_position/team /m/0x2p 1 1 0 1

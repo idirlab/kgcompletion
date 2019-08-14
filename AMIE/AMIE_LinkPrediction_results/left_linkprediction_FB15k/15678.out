@@ -1,0 +1,16 @@
+pca confidence count
+/m/083p7 /government/political_appointer/appointees./government/government_position_held/office_holder /m/07hyk 1 1 1 1
+/m/0c_md_ /government/political_appointer/appointees./government/government_position_held/office_holder /m/0d0vj4 1 1 0 1
+/m/034ls /government/political_appointer/appointees./government/government_position_held/office_holder /m/0d0vj4 1 1 1 1
+std confidence count
+/m/083p7 /government/political_appointer/appointees./government/government_position_held/office_holder /m/07hyk 1 1 1 1
+/m/0c_md_ /government/political_appointer/appointees./government/government_position_held/office_holder /m/0d0vj4 1 1 0 1
+/m/034ls /government/political_appointer/appointees./government/government_position_held/office_holder /m/0d0vj4 1 1 1 1
+pca confidence sum
+/m/083p7 /government/political_appointer/appointees./government/government_position_held/office_holder /m/07hyk 1 1 0 0
+/m/0c_md_ /government/political_appointer/appointees./government/government_position_held/office_holder /m/0d0vj4 1 1 0 0
+/m/034ls /government/political_appointer/appointees./government/government_position_held/office_holder /m/0d0vj4 1 1 0 0
+std confidence sum
+/m/083p7 /government/political_appointer/appointees./government/government_position_held/office_holder /m/07hyk 1 1 1 1
+/m/0c_md_ /government/political_appointer/appointees./government/government_position_held/office_holder /m/0d0vj4 1 1 0 0
+/m/034ls /government/political_appointer/appointees./government/government_position_held/office_holder /m/0d0vj4 1 1 1 1

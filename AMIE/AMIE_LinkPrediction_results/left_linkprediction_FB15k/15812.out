@@ -1,0 +1,12 @@
+pca confidence count
+/m/025rw19 /medicine/drug/legal_status /m/01_7r6 0 0 0 0
+/m/025s7j4 /medicine/drug/legal_status /m/01b86_ 1 1 0 0
+std confidence count
+/m/025rw19 /medicine/drug/legal_status /m/01_7r6 0 1 0 1
+/m/025s7j4 /medicine/drug/legal_status /m/01b86_ 1 1 0 0
+pca confidence sum
+/m/025rw19 /medicine/drug/legal_status /m/01_7r6 0 1 0 0
+/m/025s7j4 /medicine/drug/legal_status /m/01b86_ 0 0 0 0
+std confidence sum
+/m/025rw19 /medicine/drug/legal_status /m/01_7r6 0 1 0 0
+/m/025s7j4 /medicine/drug/legal_status /m/01b86_ 1 1 0 1

@@ -1,0 +1,20 @@
+pca confidence count
+/m/01gsvb /government/legislative_session/members./government/government_position_held/office_position_or_title /m/0cgqx 1 1 1 1
+/m/02glc4 /government/legislative_session/members./government/government_position_held/office_position_or_title /m/0cgqx 1 1 1 1
+/m/01grqd /government/legislative_session/members./government/government_position_held/office_position_or_title /m/0cgqx 1 1 1 1
+/m/060ny2 /government/legislative_session/members./government/government_position_held/office_position_or_title /m/0cgqx 1 1 1 1
+std confidence count
+/m/01gsvb /government/legislative_session/members./government/government_position_held/office_position_or_title /m/0cgqx 1 1 1 1
+/m/02glc4 /government/legislative_session/members./government/government_position_held/office_position_or_title /m/0cgqx 1 1 1 1
+/m/01grqd /government/legislative_session/members./government/government_position_held/office_position_or_title /m/0cgqx 1 1 1 1
+/m/060ny2 /government/legislative_session/members./government/government_position_held/office_position_or_title /m/0cgqx 1 1 1 1
+pca confidence sum
+/m/01gsvb /government/legislative_session/members./government/government_position_held/office_position_or_title /m/0cgqx 1 1 1 1
+/m/02glc4 /government/legislative_session/members./government/government_position_held/office_position_or_title /m/0cgqx 1 1 1 1
+/m/01grqd /government/legislative_session/members./government/government_position_held/office_position_or_title /m/0cgqx 1 1 1 1
+/m/060ny2 /government/legislative_session/members./government/government_position_held/office_position_or_title /m/0cgqx 1 1 1 1
+std confidence sum
+/m/01gsvb /government/legislative_session/members./government/government_position_held/office_position_or_title /m/0cgqx 1 1 1 1
+/m/02glc4 /government/legislative_session/members./government/government_position_held/office_position_or_title /m/0cgqx 1 1 1 1
+/m/01grqd /government/legislative_session/members./government/government_position_held/office_position_or_title /m/0cgqx 1 1 1 1
+/m/060ny2 /government/legislative_session/members./government/government_position_held/office_position_or_title /m/0cgqx 1 1 1 1

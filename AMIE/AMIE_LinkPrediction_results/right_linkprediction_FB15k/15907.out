@@ -1,0 +1,28 @@
+pca confidence count
+/m/02lq5w /olympics/olympic_medal/medal_winners./olympics/olympic_medal_honor/medalist /m/026kmvf 1 1 0 1
+/m/02lpp7 /olympics/olympic_medal/medal_winners./olympics/olympic_medal_honor/medalist /m/069d71 0 1 0 0
+/m/02lpp7 /olympics/olympic_medal/medal_winners./olympics/olympic_medal_honor/medalist /m/06yj20 0 1 0 0
+/m/02lpp7 /olympics/olympic_medal/medal_winners./olympics/olympic_medal_honor/medalist /m/0f2zc 0 1 0 0
+/m/02lq67 /olympics/olympic_medal/medal_winners./olympics/olympic_medal_honor/medalist /m/01gct2 1 1 0 1
+/m/02lpp7 /olympics/olympic_medal/medal_winners./olympics/olympic_medal_honor/medalist /m/016cff 1 1 0 0
+std confidence count
+/m/02lq5w /olympics/olympic_medal/medal_winners./olympics/olympic_medal_honor/medalist /m/026kmvf 1 1 0 1
+/m/02lpp7 /olympics/olympic_medal/medal_winners./olympics/olympic_medal_honor/medalist /m/069d71 0 1 0 0
+/m/02lpp7 /olympics/olympic_medal/medal_winners./olympics/olympic_medal_honor/medalist /m/06yj20 0 1 0 0
+/m/02lpp7 /olympics/olympic_medal/medal_winners./olympics/olympic_medal_honor/medalist /m/0f2zc 0 1 0 0
+/m/02lq67 /olympics/olympic_medal/medal_winners./olympics/olympic_medal_honor/medalist /m/01gct2 1 1 0 1
+/m/02lpp7 /olympics/olympic_medal/medal_winners./olympics/olympic_medal_honor/medalist /m/016cff 0 1 0 0
+pca confidence sum
+/m/02lq5w /olympics/olympic_medal/medal_winners./olympics/olympic_medal_honor/medalist /m/026kmvf 1 1 0 1
+/m/02lpp7 /olympics/olympic_medal/medal_winners./olympics/olympic_medal_honor/medalist /m/069d71 0 1 0 0
+/m/02lpp7 /olympics/olympic_medal/medal_winners./olympics/olympic_medal_honor/medalist /m/06yj20 0 1 0 0
+/m/02lpp7 /olympics/olympic_medal/medal_winners./olympics/olympic_medal_honor/medalist /m/0f2zc 0 1 0 0
+/m/02lq67 /olympics/olympic_medal/medal_winners./olympics/olympic_medal_honor/medalist /m/01gct2 1 1 0 1
+/m/02lpp7 /olympics/olympic_medal/medal_winners./olympics/olympic_medal_honor/medalist /m/016cff 1 1 0 0
+std confidence sum
+/m/02lq5w /olympics/olympic_medal/medal_winners./olympics/olympic_medal_honor/medalist /m/026kmvf 1 1 0 1
+/m/02lpp7 /olympics/olympic_medal/medal_winners./olympics/olympic_medal_honor/medalist /m/069d71 0 1 0 0
+/m/02lpp7 /olympics/olympic_medal/medal_winners./olympics/olympic_medal_honor/medalist /m/06yj20 0 1 0 0
+/m/02lpp7 /olympics/olympic_medal/medal_winners./olympics/olympic_medal_honor/medalist /m/0f2zc 0 1 0 0
+/m/02lq67 /olympics/olympic_medal/medal_winners./olympics/olympic_medal_honor/medalist /m/01gct2 1 1 0 1
+/m/02lpp7 /olympics/olympic_medal/medal_winners./olympics/olympic_medal_honor/medalist /m/016cff 1 1 0 0

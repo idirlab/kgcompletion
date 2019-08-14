@@ -1,0 +1,16 @@
+pca confidence count
+/m/06sks6 /olympics/olympic_games/medals_awarded./olympics/olympic_medal_honor/medalist /m/07vfqj 1 1 0 1
+/m/06sks6 /olympics/olympic_games/medals_awarded./olympics/olympic_medal_honor/medalist /m/069d68 0 0 0 0
+/m/0kbvb /olympics/olympic_games/medals_awarded./olympics/olympic_medal_honor/medalist /m/03cvfg 1 1 0 0
+std confidence count
+/m/06sks6 /olympics/olympic_games/medals_awarded./olympics/olympic_medal_honor/medalist /m/07vfqj 1 1 0 1
+/m/06sks6 /olympics/olympic_games/medals_awarded./olympics/olympic_medal_honor/medalist /m/069d68 1 1 0 1
+/m/0kbvb /olympics/olympic_games/medals_awarded./olympics/olympic_medal_honor/medalist /m/03cvfg 1 1 0 1
+pca confidence sum
+/m/06sks6 /olympics/olympic_games/medals_awarded./olympics/olympic_medal_honor/medalist /m/07vfqj 1 1 0 1
+/m/06sks6 /olympics/olympic_games/medals_awarded./olympics/olympic_medal_honor/medalist /m/069d68 0 1 0 0
+/m/0kbvb /olympics/olympic_games/medals_awarded./olympics/olympic_medal_honor/medalist /m/03cvfg 1 1 0 0
+std confidence sum
+/m/06sks6 /olympics/olympic_games/medals_awarded./olympics/olympic_medal_honor/medalist /m/07vfqj 1 1 0 1
+/m/06sks6 /olympics/olympic_games/medals_awarded./olympics/olympic_medal_honor/medalist /m/069d68 0 1 0 1
+/m/0kbvb /olympics/olympic_games/medals_awarded./olympics/olympic_medal_honor/medalist /m/03cvfg 1 1 0 0

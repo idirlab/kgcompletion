@@ -1,0 +1,12 @@
+pca confidence count
+/m/01g0jn /baseball/baseball_player/batting_stats./baseball/batting_statistics/season /m/025ygws 1 1 0 0
+/m/01g0jn /baseball/baseball_player/batting_stats./baseball/batting_statistics/season /m/0dx84s 1 1 0 0
+std confidence count
+/m/01g0jn /baseball/baseball_player/batting_stats./baseball/batting_statistics/season /m/025ygws 1 1 0 0
+/m/01g0jn /baseball/baseball_player/batting_stats./baseball/batting_statistics/season /m/0dx84s 1 1 0 0
+pca confidence sum
+/m/01g0jn /baseball/baseball_player/batting_stats./baseball/batting_statistics/season /m/025ygws 1 1 0 1
+/m/01g0jn /baseball/baseball_player/batting_stats./baseball/batting_statistics/season /m/0dx84s 1 1 1 1
+std confidence sum
+/m/01g0jn /baseball/baseball_player/batting_stats./baseball/batting_statistics/season /m/025ygws 1 1 0 1
+/m/01g0jn /baseball/baseball_player/batting_stats./baseball/batting_statistics/season /m/0dx84s 1 1 1 1

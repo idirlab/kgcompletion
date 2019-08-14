@@ -1,0 +1,48 @@
+pca confidence count
+/m/05683cn /film/film_art_director/films_art_directed /m/0k4kk 0 1 0 0
+/m/07hhnl /film/film_art_director/films_art_directed /m/0bl06 0 0 0 0
+/m/05v1sb /film/film_art_director/films_art_directed /m/0m_h6 0 1 0 0
+/m/071jv5 /film/film_art_director/films_art_directed /m/0gndh 0 0 0 0
+/m/05683cn /film/film_art_director/films_art_directed /m/072192 0 1 0 0
+/m/0dh73w /film/film_art_director/films_art_directed /m/075cph 1 1 0 0
+/m/0dh73w /film/film_art_director/films_art_directed /m/0k5g9 1 1 0 0
+/m/05b2f_k /film/film_art_director/films_art_directed /m/0f4yh 0 1 0 0
+/m/098sv2 /film/film_art_director/films_art_directed /m/0kvf3b 1 1 0 1
+/m/05728w1 /film/film_art_director/films_art_directed /m/0k4f3 1 1 0 1
+/m/05b2f_k /film/film_art_director/films_art_directed /m/0f3m1 1 1 0 0
+std confidence count
+/m/05683cn /film/film_art_director/films_art_directed /m/0k4kk 1 1 0 1
+/m/07hhnl /film/film_art_director/films_art_directed /m/0bl06 1 1 0 1
+/m/05v1sb /film/film_art_director/films_art_directed /m/0m_h6 1 1 0 0
+/m/071jv5 /film/film_art_director/films_art_directed /m/0gndh 1 1 0 1
+/m/05683cn /film/film_art_director/films_art_directed /m/072192 1 1 0 0
+/m/0dh73w /film/film_art_director/films_art_directed /m/075cph 1 1 0 1
+/m/0dh73w /film/film_art_director/films_art_directed /m/0k5g9 1 1 0 1
+/m/05b2f_k /film/film_art_director/films_art_directed /m/0f4yh 1 1 0 1
+/m/098sv2 /film/film_art_director/films_art_directed /m/0kvf3b 1 1 0 1
+/m/05728w1 /film/film_art_director/films_art_directed /m/0k4f3 1 1 0 1
+/m/05b2f_k /film/film_art_director/films_art_directed /m/0f3m1 1 1 0 1
+pca confidence sum
+/m/05683cn /film/film_art_director/films_art_directed /m/0k4kk 1 1 0 1
+/m/07hhnl /film/film_art_director/films_art_directed /m/0bl06 0 1 0 0
+/m/05v1sb /film/film_art_director/films_art_directed /m/0m_h6 0 1 0 0
+/m/071jv5 /film/film_art_director/films_art_directed /m/0gndh 0 1 0 0
+/m/05683cn /film/film_art_director/films_art_directed /m/072192 0 1 0 0
+/m/0dh73w /film/film_art_director/films_art_directed /m/075cph 1 1 0 0
+/m/0dh73w /film/film_art_director/films_art_directed /m/0k5g9 1 1 0 1
+/m/05b2f_k /film/film_art_director/films_art_directed /m/0f4yh 0 0 0 0
+/m/098sv2 /film/film_art_director/films_art_directed /m/0kvf3b 1 1 0 0
+/m/05728w1 /film/film_art_director/films_art_directed /m/0k4f3 1 1 0 1
+/m/05b2f_k /film/film_art_director/films_art_directed /m/0f3m1 1 1 0 0
+std confidence sum
+/m/05683cn /film/film_art_director/films_art_directed /m/0k4kk 1 1 0 1
+/m/07hhnl /film/film_art_director/films_art_directed /m/0bl06 0 1 0 0
+/m/05v1sb /film/film_art_director/films_art_directed /m/0m_h6 0 1 0 0
+/m/071jv5 /film/film_art_director/films_art_directed /m/0gndh 0 1 0 0
+/m/05683cn /film/film_art_director/films_art_directed /m/072192 0 1 0 0
+/m/0dh73w /film/film_art_director/films_art_directed /m/075cph 1 1 0 1
+/m/0dh73w /film/film_art_director/films_art_directed /m/0k5g9 1 1 0 1
+/m/05b2f_k /film/film_art_director/films_art_directed /m/0f4yh 1 1 0 1
+/m/098sv2 /film/film_art_director/films_art_directed /m/0kvf3b 1 1 0 0
+/m/05728w1 /film/film_art_director/films_art_directed /m/0k4f3 1 1 0 1
+/m/05b2f_k /film/film_art_director/films_art_directed /m/0f3m1 1 1 0 1

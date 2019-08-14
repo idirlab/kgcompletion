@@ -1,0 +1,20 @@
+pca confidence count
+/m/01hrqc /celebrities/celebrity/sexual_orientation./celebrities/sexual_orientation_phase/sexual_orientation /m/0d63kt 0 0 0 0
+/m/03dq9 /celebrities/celebrity/sexual_orientation./celebrities/sexual_orientation_phase/sexual_orientation /m/0d63kt 0 0 0 0
+/m/01w1ywm /celebrities/celebrity/sexual_orientation./celebrities/sexual_orientation_phase/sexual_orientation /m/0d63kt 0 0 0 0
+/m/09889g /celebrities/celebrity/sexual_orientation./celebrities/sexual_orientation_phase/sexual_orientation /m/03nh9 0 1 0 0
+std confidence count
+/m/01hrqc /celebrities/celebrity/sexual_orientation./celebrities/sexual_orientation_phase/sexual_orientation /m/0d63kt 1 1 0 1
+/m/03dq9 /celebrities/celebrity/sexual_orientation./celebrities/sexual_orientation_phase/sexual_orientation /m/0d63kt 1 1 0 1
+/m/01w1ywm /celebrities/celebrity/sexual_orientation./celebrities/sexual_orientation_phase/sexual_orientation /m/0d63kt 1 1 0 1
+/m/09889g /celebrities/celebrity/sexual_orientation./celebrities/sexual_orientation_phase/sexual_orientation /m/03nh9 0 1 0 1
+pca confidence sum
+/m/01hrqc /celebrities/celebrity/sexual_orientation./celebrities/sexual_orientation_phase/sexual_orientation /m/0d63kt 0 0 0 0
+/m/03dq9 /celebrities/celebrity/sexual_orientation./celebrities/sexual_orientation_phase/sexual_orientation /m/0d63kt 0 0 0 0
+/m/01w1ywm /celebrities/celebrity/sexual_orientation./celebrities/sexual_orientation_phase/sexual_orientation /m/0d63kt 0 0 0 0
+/m/09889g /celebrities/celebrity/sexual_orientation./celebrities/sexual_orientation_phase/sexual_orientation /m/03nh9 0 1 0 0
+std confidence sum
+/m/01hrqc /celebrities/celebrity/sexual_orientation./celebrities/sexual_orientation_phase/sexual_orientation /m/0d63kt 0 1 0 0
+/m/03dq9 /celebrities/celebrity/sexual_orientation./celebrities/sexual_orientation_phase/sexual_orientation /m/0d63kt 1 1 0 0
+/m/01w1ywm /celebrities/celebrity/sexual_orientation./celebrities/sexual_orientation_phase/sexual_orientation /m/0d63kt 0 1 0 0
+/m/09889g /celebrities/celebrity/sexual_orientation./celebrities/sexual_orientation_phase/sexual_orientation /m/03nh9 0 1 0 0

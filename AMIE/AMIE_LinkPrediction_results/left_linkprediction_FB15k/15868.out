@@ -1,0 +1,12 @@
+pca confidence count
+/m/025sc50 /music/genre/albums /m/02f6g5 0 1 0 0
+/m/017_qw /music/genre/albums /m/01q2nx 1 1 0 0
+std confidence count
+/m/025sc50 /music/genre/albums /m/02f6g5 0 0 0 0
+/m/017_qw /music/genre/albums /m/01q2nx 1 1 1 1
+pca confidence sum
+/m/025sc50 /music/genre/albums /m/02f6g5 0 0 0 0
+/m/017_qw /music/genre/albums /m/01q2nx 1 1 0 0
+std confidence sum
+/m/025sc50 /music/genre/albums /m/02f6g5 0 0 0 0
+/m/017_qw /music/genre/albums /m/01q2nx 1 1 1 1

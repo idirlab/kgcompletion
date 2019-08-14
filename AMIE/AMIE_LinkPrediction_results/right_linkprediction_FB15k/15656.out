@@ -1,0 +1,16 @@
+pca confidence count
+/m/09c7w0 /government/governmental_jurisdiction/agencies /m/0j__m 0 0 0 0
+/m/02fp48 /government/governmental_jurisdiction/agencies /m/01_bmf 1 1 0 0
+/m/09c7w0 /government/governmental_jurisdiction/agencies /m/07vsl 1 1 0 1
+std confidence count
+/m/09c7w0 /government/governmental_jurisdiction/agencies /m/0j__m 0 1 0 1
+/m/02fp48 /government/governmental_jurisdiction/agencies /m/01_bmf 1 1 1 1
+/m/09c7w0 /government/governmental_jurisdiction/agencies /m/07vsl 1 1 0 1
+pca confidence sum
+/m/09c7w0 /government/governmental_jurisdiction/agencies /m/0j__m 0 0 0 0
+/m/02fp48 /government/governmental_jurisdiction/agencies /m/01_bmf 1 1 0 0
+/m/09c7w0 /government/governmental_jurisdiction/agencies /m/07vsl 1 1 0 1
+std confidence sum
+/m/09c7w0 /government/governmental_jurisdiction/agencies /m/0j__m 0 1 0 0
+/m/02fp48 /government/governmental_jurisdiction/agencies /m/01_bmf 1 1 0 0
+/m/09c7w0 /government/governmental_jurisdiction/agencies /m/07vsl 1 1 0 0

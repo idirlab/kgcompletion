@@ -1,0 +1,16 @@
+pca confidence count
+/m/098s1 /medicine/disease_cause/diseases /m/0dcrb 1 1 1 1
+/m/0n8qp /medicine/disease_cause/diseases /m/02k6hp 1 1 0 1
+/m/02y0js /medicine/disease_cause/diseases /m/063yv 1 1 1 1
+std confidence count
+/m/098s1 /medicine/disease_cause/diseases /m/0dcrb 1 1 1 1
+/m/0n8qp /medicine/disease_cause/diseases /m/02k6hp 1 1 0 1
+/m/02y0js /medicine/disease_cause/diseases /m/063yv 1 1 1 1
+pca confidence sum
+/m/098s1 /medicine/disease_cause/diseases /m/0dcrb 1 1 1 1
+/m/0n8qp /medicine/disease_cause/diseases /m/02k6hp 1 1 0 1
+/m/02y0js /medicine/disease_cause/diseases /m/063yv 1 1 1 1
+std confidence sum
+/m/098s1 /medicine/disease_cause/diseases /m/0dcrb 1 1 1 1
+/m/0n8qp /medicine/disease_cause/diseases /m/02k6hp 1 1 0 1
+/m/02y0js /medicine/disease_cause/diseases /m/063yv 1 1 1 1
