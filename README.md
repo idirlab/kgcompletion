@@ -88,4 +88,8 @@ python reverse_percentage.py
 * Implementations for RotatE, TransE, ComplEx, DistMult.
 * Original repository: (https://github.com/DeepGraphLearning/KnowledgeGraphEmbedding).
 
+# TuckER
+* Cloned September 2019.
+* Implementations for TuckER.
+* Original repository: (https://github.com/ibalazevic/TuckER).
 
