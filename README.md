@@ -83,4 +83,9 @@ python reverse_percentage.py
 * Original repository: (https://github.com/thunlp/OpenKE).
 * Test.h is modified to print results for all test triples.
 
+# RotatE
+* Cloned September 2019.
+* Implementations for RotatE, TransE, ComplEx, DistMult.
+* Original repository: (https://github.com/DeepGraphLearning/KnowledgeGraphEmbedding).
+
 
