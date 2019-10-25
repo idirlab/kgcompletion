@@ -1,0 +1,1519 @@
+Training the TuckER model...
+Number of training data points: 544230
+Starting training...
+epoch 1
+cost time 11.42 s
+mean loss: 0.2677866185290946
+epoch 2
+cost time 10.86 s
+mean loss: 0.02486751537817793
+epoch 3
+cost time 10.64 s
+mean loss: 0.006919408238564546
+epoch 4
+cost time 10.33 s
+mean loss: 0.003925857130979371
+epoch 5
+cost time 10.60 s
+mean loss: 0.003067885870193569
+epoch 6
+cost time 10.64 s
+mean loss: 0.0027564079095768685
+epoch 7
+cost time 10.64 s
+mean loss: 0.0026034125742804993
+epoch 8
+cost time 10.51 s
+mean loss: 0.0025479869502118956
+epoch 9
+cost time 10.61 s
+mean loss: 0.0024960451720592875
+epoch 10
+cost time 10.61 s
+mean loss: 0.002446850122879936
+epoch 11
+cost time 10.57 s
+mean loss: 0.0024099207654372495
+epoch 12
+cost time 10.59 s
+mean loss: 0.0023602701883771037
+epoch 13
+cost time 10.58 s
+mean loss: 0.0022907355893801292
+epoch 14
+cost time 10.63 s
+mean loss: 0.0022060482998569617
+epoch 15
+cost time 10.61 s
+mean loss: 0.002126722308432954
+epoch 16
+cost time 10.58 s
+mean loss: 0.002048173655047376
+epoch 17
+cost time 10.63 s
+mean loss: 0.0020060534477552286
+epoch 18
+cost time 10.62 s
+mean loss: 0.0019419939974601515
+epoch 19
+cost time 10.60 s
+mean loss: 0.001895428651597542
+epoch 20
+cost time 10.61 s
+mean loss: 0.0018692319025683543
+epoch 21
+cost time 10.61 s
+mean loss: 0.0018514976070588853
+epoch 22
+cost time 10.61 s
+mean loss: 0.001815165566582965
+epoch 23
+cost time 10.59 s
+mean loss: 0.0017977778903312154
+epoch 24
+cost time 10.58 s
+mean loss: 0.0017778265530752958
+epoch 25
+cost time 10.57 s
+mean loss: 0.0017656135621568203
+epoch 26
+cost time 10.55 s
+mean loss: 0.0017498273584537973
+epoch 27
+cost time 10.59 s
+mean loss: 0.001742351705280061
+epoch 28
+cost time 10.90 s
+mean loss: 0.0017324709790185668
+epoch 29
+cost time 10.76 s
+mean loss: 0.001725549186165962
+epoch 30
+cost time 10.58 s
+mean loss: 0.0017092509227048637
+epoch 31
+cost time 10.56 s
+mean loss: 0.0017056153741919905
+epoch 32
+cost time 10.58 s
+mean loss: 0.0016997368312759214
+epoch 33
+cost time 10.57 s
+mean loss: 0.0016891834618619236
+epoch 34
+cost time 10.57 s
+mean loss: 0.0016791196903174059
+epoch 35
+cost time 10.57 s
+mean loss: 0.0016766839570158886
+epoch 36
+cost time 10.57 s
+mean loss: 0.001673146214387897
+epoch 37
+cost time 10.60 s
+mean loss: 0.0016670065637455027
+epoch 38
+cost time 10.59 s
+mean loss: 0.001667763613578346
+epoch 39
+cost time 10.58 s
+mean loss: 0.001654410664525488
+epoch 40
+cost time 10.57 s
+mean loss: 0.0016451539296625007
+epoch 41
+cost time 10.61 s
+mean loss: 0.0016426150103967287
+epoch 42
+cost time 10.58 s
+mean loss: 0.0016410302329991555
+epoch 43
+cost time 10.62 s
+mean loss: 0.001637691763154048
+epoch 44
+cost time 10.58 s
+mean loss: 0.0016299262659775458
+epoch 45
+cost time 10.59 s
+mean loss: 0.0016238178403124722
+epoch 46
+cost time 10.61 s
+mean loss: 0.0016235226886665338
+epoch 47
+cost time 10.58 s
+mean loss: 0.0016298744236477292
+epoch 48
+cost time 10.60 s
+mean loss: 0.001613768451134714
+epoch 49
+cost time 10.58 s
+mean loss: 0.0016123678243687202
+epoch 50
+cost time 10.58 s
+mean loss: 0.0016107706389883454
+epoch 51
+cost time 10.58 s
+mean loss: 0.0016042366562188308
+epoch 52
+cost time 10.59 s
+mean loss: 0.0016039247289260164
+epoch 53
+cost time 10.59 s
+mean loss: 0.0016006711309250348
+epoch 54
+cost time 10.59 s
+mean loss: 0.0015963150155491744
+epoch 55
+cost time 10.59 s
+mean loss: 0.0015924649568807938
+epoch 56
+cost time 10.70 s
+mean loss: 0.0015924479955664048
+epoch 57
+cost time 10.65 s
+mean loss: 0.0015896475094800385
+epoch 58
+cost time 10.58 s
+mean loss: 0.0015853403607765451
+epoch 59
+cost time 10.59 s
+mean loss: 0.001579486976405526
+epoch 60
+cost time 10.58 s
+mean loss: 0.0015829608623439877
+epoch 61
+cost time 10.72 s
+mean loss: 0.0015758834851897744
+epoch 62
+cost time 10.57 s
+mean loss: 0.0015754091563340053
+epoch 63
+cost time 10.59 s
+mean loss: 0.0015758029340455929
+epoch 64
+cost time 10.57 s
+mean loss: 0.001573435579522107
+epoch 65
+cost time 10.56 s
+mean loss: 0.0015676606464414642
+epoch 66
+cost time 10.58 s
+mean loss: 0.0015664661524053185
+epoch 67
+cost time 10.58 s
+mean loss: 0.0015679736256511865
+epoch 68
+cost time 10.56 s
+mean loss: 0.0015631927769336627
+epoch 69
+cost time 10.58 s
+mean loss: 0.0015669243219189155
+epoch 70
+cost time 10.57 s
+mean loss: 0.0015676268266959705
+epoch 71
+cost time 10.58 s
+mean loss: 0.0015600212075564468
+epoch 72
+cost time 10.58 s
+mean loss: 0.001554148034272222
+epoch 73
+cost time 10.58 s
+mean loss: 0.0015538600049554729
+epoch 74
+cost time 10.58 s
+mean loss: 0.0015499062713784859
+epoch 75
+cost time 10.58 s
+mean loss: 0.0015491338837772418
+epoch 76
+cost time 10.55 s
+mean loss: 0.0015475748779459131
+epoch 77
+cost time 10.57 s
+mean loss: 0.001548960900061533
+epoch 78
+cost time 10.81 s
+mean loss: 0.001549443625049013
+epoch 79
+cost time 10.82 s
+mean loss: 0.0015390239435080916
+epoch 80
+cost time 10.71 s
+mean loss: 0.0015427195050148692
+epoch 81
+cost time 10.70 s
+mean loss: 0.0015394522014479989
+epoch 82
+cost time 10.46 s
+mean loss: 0.0015392571296662283
+epoch 83
+cost time 10.12 s
+mean loss: 0.001536179014827865
+epoch 84
+cost time 10.11 s
+mean loss: 0.0015308576285775401
+epoch 85
+cost time 10.13 s
+mean loss: 0.0015311824215544212
+epoch 86
+cost time 10.16 s
+mean loss: 0.0015409057334057478
+epoch 87
+cost time 10.37 s
+mean loss: 0.0015297793326541208
+epoch 88
+cost time 10.22 s
+mean loss: 0.0015318266407618475
+epoch 89
+cost time 10.49 s
+mean loss: 0.001533257036915638
+epoch 90
+cost time 10.74 s
+mean loss: 0.001528756195006685
+epoch 91
+cost time 10.72 s
+mean loss: 0.001525140226754941
+epoch 92
+cost time 10.66 s
+mean loss: 0.0015244935237221484
+epoch 93
+cost time 10.66 s
+mean loss: 0.001524986828275375
+epoch 94
+cost time 10.67 s
+mean loss: 0.0015191146770579757
+epoch 95
+cost time 10.68 s
+mean loss: 0.0015173203205395267
+epoch 96
+cost time 10.71 s
+mean loss: 0.0015204212008418244
+epoch 97
+cost time 10.68 s
+mean loss: 0.001519995980247314
+epoch 98
+cost time 10.70 s
+mean loss: 0.0015211491831618115
+epoch 99
+cost time 10.66 s
+mean loss: 0.0015176719447605822
+epoch 100
+cost time 10.69 s
+mean loss: 0.001515057531153608
+epoch 101
+cost time 10.68 s
+mean loss: 0.001518490537105558
+epoch 102
+cost time 10.69 s
+mean loss: 0.0015150859236565985
+epoch 103
+cost time 10.70 s
+mean loss: 0.0015132415203902966
+epoch 104
+cost time 10.68 s
+mean loss: 0.0015102737728490408
+epoch 105
+cost time 10.67 s
+mean loss: 0.0015126027050428093
+epoch 106
+cost time 10.67 s
+mean loss: 0.0015139315863394649
+epoch 107
+cost time 10.67 s
+mean loss: 0.0015086617077995316
+epoch 108
+cost time 10.67 s
+mean loss: 0.0015095988864628359
+epoch 109
+cost time 10.70 s
+mean loss: 0.0015078658145518066
+epoch 110
+cost time 10.70 s
+mean loss: 0.0015071379218815674
+epoch 111
+cost time 10.67 s
+mean loss: 0.001503277107531953
+epoch 112
+cost time 10.68 s
+mean loss: 0.001507200427655863
+epoch 113
+cost time 10.70 s
+mean loss: 0.0015032028127660673
+epoch 114
+cost time 10.70 s
+mean loss: 0.0015039580877130039
+epoch 115
+cost time 10.69 s
+mean loss: 0.0015014979700780768
+epoch 116
+cost time 10.64 s
+mean loss: 0.0015002522723048797
+epoch 117
+cost time 10.65 s
+mean loss: 0.0014994789901961627
+epoch 118
+cost time 10.65 s
+mean loss: 0.0015010807907972963
+epoch 119
+cost time 10.65 s
+mean loss: 0.0015048208865376875
+epoch 120
+cost time 10.65 s
+mean loss: 0.0015023813063565355
+epoch 121
+cost time 10.65 s
+mean loss: 0.0014945768855679302
+epoch 122
+cost time 10.67 s
+mean loss: 0.0014962956795874888
+epoch 123
+cost time 10.68 s
+mean loss: 0.0014982178777408523
+epoch 124
+cost time 10.82 s
+mean loss: 0.0014968687531132347
+epoch 125
+cost time 10.75 s
+mean loss: 0.0014920680156837289
+epoch 126
+cost time 10.69 s
+mean loss: 0.0014909946906945517
+epoch 127
+cost time 10.66 s
+mean loss: 0.00149349302578813
+epoch 128
+cost time 10.69 s
+mean loss: 0.001489858028009279
+epoch 129
+cost time 10.67 s
+mean loss: 0.0014940759321300583
+epoch 130
+cost time 10.69 s
+mean loss: 0.0014893520086144026
+epoch 131
+cost time 10.67 s
+mean loss: 0.0014871762313235265
+epoch 132
+cost time 10.68 s
+mean loss: 0.0014909137885134
+epoch 133
+cost time 10.66 s
+mean loss: 0.0014862446471626879
+epoch 134
+cost time 10.65 s
+mean loss: 0.0014920030744412006
+epoch 135
+cost time 10.70 s
+mean loss: 0.0014855161655503205
+epoch 136
+cost time 10.68 s
+mean loss: 0.0014883257560113557
+epoch 137
+cost time 10.64 s
+mean loss: 0.0014885884289765079
+epoch 138
+cost time 10.67 s
+mean loss: 0.001488042088985666
+epoch 139
+cost time 10.66 s
+mean loss: 0.0014830778633507017
+epoch 140
+cost time 10.65 s
+mean loss: 0.0014832045393398938
+epoch 141
+cost time 10.63 s
+mean loss: 0.0014853098003878298
+epoch 142
+cost time 10.65 s
+mean loss: 0.0014812533850144818
+epoch 143
+cost time 10.64 s
+mean loss: 0.0014822421738734611
+epoch 144
+cost time 10.69 s
+mean loss: 0.0014813506259368017
+epoch 145
+cost time 10.62 s
+mean loss: 0.0014826223314898964
+epoch 146
+cost time 10.63 s
+mean loss: 0.0014854127237708585
+epoch 147
+cost time 10.64 s
+mean loss: 0.0014799701171314232
+epoch 148
+cost time 10.67 s
+mean loss: 0.001476543745260813
+epoch 149
+cost time 10.63 s
+mean loss: 0.001476092908419987
+epoch 150
+cost time 10.67 s
+mean loss: 0.0014750855071390542
+epoch 151
+cost time 10.67 s
+mean loss: 0.001478210758143224
+epoch 152
+cost time 10.66 s
+mean loss: 0.001479530625908962
+epoch 153
+cost time 10.63 s
+mean loss: 0.0014812897205249303
+epoch 154
+cost time 10.64 s
+mean loss: 0.0014799447855553948
+epoch 155
+cost time 10.65 s
+mean loss: 0.0014771482024668182
+epoch 156
+cost time 10.70 s
+mean loss: 0.0014732496389068472
+epoch 157
+cost time 10.68 s
+mean loss: 0.0014724376861157261
+epoch 158
+cost time 10.67 s
+mean loss: 0.0014749587908522504
+epoch 159
+cost time 10.69 s
+mean loss: 0.0014728939569650743
+epoch 160
+cost time 10.70 s
+mean loss: 0.0014744754075709508
+epoch 161
+cost time 10.70 s
+mean loss: 0.0014729297239309512
+epoch 162
+cost time 10.69 s
+mean loss: 0.0014723965336974614
+epoch 163
+cost time 10.69 s
+mean loss: 0.0014712428728826982
+epoch 164
+cost time 10.70 s
+mean loss: 0.0014717521102159707
+epoch 165
+cost time 10.70 s
+mean loss: 0.0014719642649014663
+epoch 166
+cost time 10.70 s
+mean loss: 0.0014712926483928012
+epoch 167
+cost time 10.68 s
+mean loss: 0.0014699522111341994
+epoch 168
+cost time 10.69 s
+mean loss: 0.0014697345154773857
+epoch 169
+cost time 10.72 s
+mean loss: 0.001465943772206481
+epoch 170
+cost time 10.68 s
+mean loss: 0.0014703543613959326
+epoch 171
+cost time 10.68 s
+mean loss: 0.001466555768249827
+epoch 172
+cost time 10.68 s
+mean loss: 0.001467368218343323
+epoch 173
+cost time 10.66 s
+mean loss: 0.001465789992441861
+epoch 174
+cost time 10.68 s
+mean loss: 0.0014647874121482556
+epoch 175
+cost time 10.68 s
+mean loss: 0.0014670357166821312
+epoch 176
+cost time 10.65 s
+mean loss: 0.0014694597033791754
+epoch 177
+cost time 10.69 s
+mean loss: 0.0014655555814353384
+epoch 178
+cost time 10.67 s
+mean loss: 0.0014682144271886439
+epoch 179
+cost time 10.67 s
+mean loss: 0.001469645634966178
+epoch 180
+cost time 10.68 s
+mean loss: 0.0014619543534528433
+epoch 181
+cost time 10.70 s
+mean loss: 0.0014635834676754843
+epoch 182
+cost time 10.72 s
+mean loss: 0.0014637038862913784
+epoch 183
+cost time 10.74 s
+mean loss: 0.001471024196053672
+epoch 184
+cost time 10.73 s
+mean loss: 0.001463396054230885
+epoch 185
+cost time 10.75 s
+mean loss: 0.0014594274395917598
+epoch 186
+cost time 10.80 s
+mean loss: 0.0014618058012336747
+epoch 187
+cost time 10.78 s
+mean loss: 0.001461248808942385
+epoch 188
+cost time 10.77 s
+mean loss: 0.0014593465064660224
+epoch 189
+cost time 10.77 s
+mean loss: 0.001466628313004875
+epoch 190
+cost time 10.86 s
+mean loss: 0.001457555051176594
+epoch 191
+cost time 10.84 s
+mean loss: 0.0014637054643657408
+epoch 192
+cost time 10.83 s
+mean loss: 0.0014564522771905058
+epoch 193
+cost time 10.83 s
+mean loss: 0.0014573248504247103
+epoch 194
+cost time 10.84 s
+mean loss: 0.0014603637577766855
+epoch 195
+cost time 10.83 s
+mean loss: 0.0014551959269178602
+epoch 196
+cost time 10.83 s
+mean loss: 0.0014563326968644293
+epoch 197
+cost time 10.85 s
+mean loss: 0.001457552116515481
+epoch 198
+cost time 10.79 s
+mean loss: 0.0014571853565115832
+epoch 199
+cost time 10.84 s
+mean loss: 0.0014563938707280427
+epoch 200
+cost time 10.81 s
+mean loss: 0.0014582467586813001
+epoch 201
+cost time 10.81 s
+mean loss: 0.0014588740902045406
+epoch 202
+cost time 10.37 s
+mean loss: 0.0014563523061796387
+epoch 203
+cost time 10.46 s
+mean loss: 0.0014561354459271345
+epoch 204
+cost time 10.67 s
+mean loss: 0.001452023996752647
+epoch 205
+cost time 10.68 s
+mean loss: 0.0014559279226809422
+epoch 206
+cost time 10.68 s
+mean loss: 0.0014587487815481285
+epoch 207
+cost time 10.68 s
+mean loss: 0.0014557988143080256
+epoch 208
+cost time 10.70 s
+mean loss: 0.001451379397752671
+epoch 209
+cost time 10.67 s
+mean loss: 0.0014562657767604305
+epoch 210
+cost time 10.71 s
+mean loss: 0.0014521330149255248
+epoch 211
+cost time 10.69 s
+mean loss: 0.0014507231563250097
+epoch 212
+cost time 10.70 s
+mean loss: 0.0014602467670447679
+epoch 213
+cost time 10.68 s
+mean loss: 0.0014555550562456632
+epoch 214
+cost time 10.69 s
+mean loss: 0.001451774276434802
+epoch 215
+cost time 10.62 s
+mean loss: 0.001449368181379719
+epoch 216
+cost time 10.61 s
+mean loss: 0.0014543977429748026
+epoch 217
+cost time 10.65 s
+mean loss: 0.0014632751332381024
+epoch 218
+cost time 10.65 s
+mean loss: 0.001451245694855053
+epoch 219
+cost time 10.64 s
+mean loss: 0.0014481153908289142
+epoch 220
+cost time 10.67 s
+mean loss: 0.001453244897763794
+epoch 221
+cost time 10.66 s
+mean loss: 0.0014525238468319687
+epoch 222
+cost time 10.66 s
+mean loss: 0.0014465378423253249
+epoch 223
+cost time 10.63 s
+mean loss: 0.0014463232166499983
+epoch 224
+cost time 10.69 s
+mean loss: 0.0014484900892632576
+epoch 225
+cost time 10.65 s
+mean loss: 0.0014567205153055425
+epoch 226
+cost time 10.67 s
+mean loss: 0.0014484928255208218
+epoch 227
+cost time 10.67 s
+mean loss: 0.0014532090535857038
+epoch 228
+cost time 10.64 s
+mean loss: 0.0014500966680666002
+epoch 229
+cost time 10.63 s
+mean loss: 0.00144756272321758
+epoch 230
+cost time 10.67 s
+mean loss: 0.001450791565152124
+epoch 231
+cost time 10.67 s
+mean loss: 0.0014468888675547244
+epoch 232
+cost time 10.65 s
+mean loss: 0.0014436101513063042
+epoch 233
+cost time 10.65 s
+mean loss: 0.0014495910763239058
+epoch 234
+cost time 10.65 s
+mean loss: 0.001445015355781453
+epoch 235
+cost time 10.65 s
+mean loss: 0.001443788260878183
+epoch 236
+cost time 10.67 s
+mean loss: 0.0014423480085256454
+epoch 237
+cost time 10.65 s
+mean loss: 0.0014442713194900852
+epoch 238
+cost time 10.66 s
+mean loss: 0.0014433377187571719
+epoch 239
+cost time 10.62 s
+mean loss: 0.001441836867055609
+epoch 240
+cost time 10.64 s
+mean loss: 0.0014477231641276142
+epoch 241
+cost time 10.65 s
+mean loss: 0.001443390962548363
+epoch 242
+cost time 10.65 s
+mean loss: 0.001440745591122307
+epoch 243
+cost time 10.65 s
+mean loss: 0.0014409793817446144
+epoch 244
+cost time 10.64 s
+mean loss: 0.001448891870577971
+epoch 245
+cost time 10.68 s
+mean loss: 0.0014436081614998034
+epoch 246
+cost time 10.66 s
+mean loss: 0.0014437445210547656
+epoch 247
+cost time 10.64 s
+mean loss: 0.001443501645161842
+epoch 248
+cost time 10.63 s
+mean loss: 0.0014436396393073228
+epoch 249
+cost time 10.64 s
+mean loss: 0.0014440458713688403
+epoch 250
+cost time 10.71 s
+mean loss: 0.0014412709023270151
+epoch 251
+cost time 10.68 s
+mean loss: 0.0014410943949085652
+epoch 252
+cost time 10.71 s
+mean loss: 0.0014416136344074884
+epoch 253
+cost time 10.70 s
+mean loss: 0.0014419953154726352
+epoch 254
+cost time 10.70 s
+mean loss: 0.001438783106700573
+epoch 255
+cost time 10.73 s
+mean loss: 0.0014394524745030216
+epoch 256
+cost time 10.73 s
+mean loss: 0.0014414023748264672
+epoch 257
+cost time 10.72 s
+mean loss: 0.0014442681052331996
+epoch 258
+cost time 10.73 s
+mean loss: 0.001437173929049546
+epoch 259
+cost time 10.72 s
+mean loss: 0.0014392124332734343
+epoch 260
+cost time 10.73 s
+mean loss: 0.0014426222266072136
+epoch 261
+cost time 10.75 s
+mean loss: 0.0014384030962450445
+epoch 262
+cost time 10.68 s
+mean loss: 0.001438127815301538
+epoch 263
+cost time 10.71 s
+mean loss: 0.0014458385770782256
+epoch 264
+cost time 10.74 s
+mean loss: 0.001437042484907672
+epoch 265
+cost time 10.75 s
+mean loss: 0.0014377405230178793
+epoch 266
+cost time 10.73 s
+mean loss: 0.0014365271249244737
+epoch 267
+cost time 10.74 s
+mean loss: 0.0014366650317087133
+epoch 268
+cost time 10.75 s
+mean loss: 0.0014381071236223364
+epoch 269
+cost time 10.77 s
+mean loss: 0.0014337309651100674
+epoch 270
+cost time 10.75 s
+mean loss: 0.0014372028260189308
+epoch 271
+cost time 10.72 s
+mean loss: 0.0014364592971789659
+epoch 272
+cost time 10.67 s
+mean loss: 0.0014366771307431608
+epoch 273
+cost time 10.65 s
+mean loss: 0.0014383449384337689
+epoch 274
+cost time 10.68 s
+mean loss: 0.0014338032332543507
+epoch 275
+cost time 10.70 s
+mean loss: 0.001431972556747496
+epoch 276
+cost time 10.68 s
+mean loss: 0.0014344906689137476
+epoch 277
+cost time 10.72 s
+mean loss: 0.0014375780448397128
+epoch 278
+cost time 10.73 s
+mean loss: 0.0014373413047307512
+epoch 279
+cost time 10.72 s
+mean loss: 0.001434187329489674
+epoch 280
+cost time 10.71 s
+mean loss: 0.001432198803557449
+epoch 281
+cost time 10.69 s
+mean loss: 0.0014337097930435378
+epoch 282
+cost time 10.69 s
+mean loss: 0.0014347875124623632
+epoch 283
+cost time 10.70 s
+mean loss: 0.0014375461589815652
+epoch 284
+cost time 10.72 s
+mean loss: 0.0014317541480717113
+epoch 285
+cost time 10.67 s
+mean loss: 0.0014319546950551179
+epoch 286
+cost time 10.70 s
+mean loss: 0.0014358882280862612
+epoch 287
+cost time 10.74 s
+mean loss: 0.0014374122763864505
+epoch 288
+cost time 10.71 s
+mean loss: 0.001432858890770242
+epoch 289
+cost time 10.69 s
+mean loss: 0.0014319003809394682
+epoch 290
+cost time 10.71 s
+mean loss: 0.0014375842704724233
+epoch 291
+cost time 10.78 s
+mean loss: 0.0014341424414330824
+epoch 292
+cost time 10.77 s
+mean loss: 0.001430860806742094
+epoch 293
+cost time 10.80 s
+mean loss: 0.001433179935372761
+epoch 294
+cost time 10.79 s
+mean loss: 0.001431890390912851
+epoch 295
+cost time 10.82 s
+mean loss: 0.0014304928040792609
+epoch 296
+cost time 10.82 s
+mean loss: 0.0014281174744097277
+epoch 297
+cost time 10.84 s
+mean loss: 0.0014303091449790403
+epoch 298
+cost time 10.87 s
+mean loss: 0.0014276156436779305
+epoch 299
+cost time 10.85 s
+mean loss: 0.0014266939494464324
+epoch 300
+cost time 10.87 s
+mean loss: 0.001433812997614344
+epoch 301
+cost time 10.85 s
+mean loss: 0.0014326378327006331
+epoch 302
+cost time 10.83 s
+mean loss: 0.001434925305318788
+epoch 303
+cost time 10.26 s
+mean loss: 0.0014309558355742986
+epoch 304
+cost time 10.78 s
+mean loss: 0.001429179688103688
+epoch 305
+cost time 10.80 s
+mean loss: 0.001427470576356396
+epoch 306
+cost time 10.85 s
+mean loss: 0.0014291002864861846
+epoch 307
+cost time 10.84 s
+mean loss: 0.0014254553058447364
+epoch 308
+cost time 10.84 s
+mean loss: 0.001425480316233877
+epoch 309
+cost time 10.84 s
+mean loss: 0.0014280285499193985
+epoch 310
+cost time 10.85 s
+mean loss: 0.0014278772371645984
+epoch 311
+cost time 10.86 s
+mean loss: 0.0014259428483370342
+epoch 312
+cost time 10.81 s
+mean loss: 0.0014287121584997155
+epoch 313
+cost time 10.79 s
+mean loss: 0.0014242366500572961
+epoch 314
+cost time 10.78 s
+mean loss: 0.0014297760786233932
+epoch 315
+cost time 10.76 s
+mean loss: 0.0014302507411035844
+epoch 316
+cost time 10.77 s
+mean loss: 0.0014286595958874074
+epoch 317
+cost time 10.72 s
+mean loss: 0.0014255950045294296
+epoch 318
+cost time 10.73 s
+mean loss: 0.0014255631705109254
+epoch 319
+cost time 10.72 s
+mean loss: 0.0014246809008754153
+epoch 320
+cost time 10.73 s
+mean loss: 0.0014257524249096138
+epoch 321
+cost time 10.75 s
+mean loss: 0.0014235900491117858
+epoch 322
+cost time 10.74 s
+mean loss: 0.0014228705492897484
+epoch 323
+cost time 10.64 s
+mean loss: 0.0014254282898285514
+epoch 324
+cost time 10.66 s
+mean loss: 0.0014219581586324696
+epoch 325
+cost time 10.63 s
+mean loss: 0.001423711544022155
+epoch 326
+cost time 10.67 s
+mean loss: 0.001423418799884872
+epoch 327
+cost time 10.08 s
+mean loss: 0.0014240226834717916
+epoch 328
+cost time 10.61 s
+mean loss: 0.0014305757459165513
+epoch 329
+cost time 10.77 s
+mean loss: 0.0014306344168507454
+epoch 330
+cost time 10.76 s
+mean loss: 0.001423273008201335
+epoch 331
+cost time 10.73 s
+mean loss: 0.0014266636423591493
+epoch 332
+cost time 10.74 s
+mean loss: 0.0014234246702021004
+epoch 333
+cost time 10.77 s
+mean loss: 0.001418444878843605
+epoch 334
+cost time 10.64 s
+mean loss: 0.0014227095726702331
+epoch 335
+cost time 10.65 s
+mean loss: 0.0014246439511497687
+epoch 336
+cost time 10.67 s
+mean loss: 0.001420889159417751
+epoch 337
+cost time 10.68 s
+mean loss: 0.0014223244784471508
+epoch 338
+cost time 10.68 s
+mean loss: 0.0014221358673177406
+epoch 339
+cost time 10.68 s
+mean loss: 0.0014210638330461314
+epoch 340
+cost time 10.65 s
+mean loss: 0.0014200383190336263
+epoch 341
+cost time 10.67 s
+mean loss: 0.0014233510747241477
+epoch 342
+cost time 10.67 s
+mean loss: 0.0014228822868396966
+epoch 343
+cost time 10.64 s
+mean loss: 0.001420925624975059
+epoch 344
+cost time 10.67 s
+mean loss: 0.0014241623524059025
+epoch 345
+cost time 10.64 s
+mean loss: 0.0014201133355745074
+epoch 346
+cost time 10.31 s
+mean loss: 0.0014219998442727086
+epoch 347
+cost time 10.27 s
+mean loss: 0.0014195596501748594
+epoch 348
+cost time 10.24 s
+mean loss: 0.0014206963043031085
+epoch 349
+cost time 10.25 s
+mean loss: 0.001421329435100381
+epoch 350
+cost time 10.27 s
+mean loss: 0.0014207306628425916
+epoch 351
+cost time 10.25 s
+mean loss: 0.0014184964249611028
+epoch 352
+cost time 10.25 s
+mean loss: 0.0014184251509240678
+epoch 353
+cost time 10.23 s
+mean loss: 0.0014205061208703515
+epoch 354
+cost time 10.13 s
+mean loss: 0.0014238216473450326
+epoch 355
+cost time 10.00 s
+mean loss: 0.0014209616533281584
+epoch 356
+cost time 10.01 s
+mean loss: 0.0014207826258662419
+epoch 357
+cost time 10.01 s
+mean loss: 0.0014168227640673136
+epoch 358
+cost time 9.97 s
+mean loss: 0.001423625091317659
+epoch 359
+cost time 9.95 s
+mean loss: 0.001422538086732165
+epoch 360
+cost time 9.95 s
+mean loss: 0.0014180447850535567
+epoch 361
+cost time 9.88 s
+mean loss: 0.0014197537325258947
+epoch 362
+cost time 9.80 s
+mean loss: 0.0014233284768186765
+epoch 363
+cost time 9.80 s
+mean loss: 0.0014216823776005806
+epoch 364
+cost time 9.78 s
+mean loss: 0.0014215472707540815
+epoch 365
+cost time 9.78 s
+mean loss: 0.0014165137408890275
+epoch 366
+cost time 9.79 s
+mean loss: 0.0014198551547482737
+epoch 367
+cost time 9.78 s
+mean loss: 0.0014150509380926497
+epoch 368
+cost time 9.80 s
+mean loss: 0.0014200810903213664
+epoch 369
+cost time 9.78 s
+mean loss: 0.0014172456724744322
+epoch 370
+cost time 9.77 s
+mean loss: 0.0014186976580984063
+epoch 371
+cost time 9.79 s
+mean loss: 0.0014156059864470656
+epoch 372
+cost time 9.79 s
+mean loss: 0.0014156100095416872
+epoch 373
+cost time 9.78 s
+mean loss: 0.0014177869779503562
+epoch 374
+cost time 9.77 s
+mean loss: 0.0014190340494243507
+epoch 375
+cost time 9.78 s
+mean loss: 0.0014244838512271771
+epoch 376
+cost time 10.17 s
+mean loss: 0.0014176126667019776
+epoch 377
+cost time 10.37 s
+mean loss: 0.0014138740349091334
+epoch 378
+cost time 9.79 s
+mean loss: 0.001413760743298942
+epoch 379
+cost time 9.80 s
+mean loss: 0.0014170572025359123
+epoch 380
+cost time 9.82 s
+mean loss: 0.0014174527547354053
+epoch 381
+cost time 9.80 s
+mean loss: 0.0014134622696373197
+epoch 382
+cost time 9.81 s
+mean loss: 0.001413857581643149
+epoch 383
+cost time 9.80 s
+mean loss: 0.0014158956347327903
+epoch 384
+cost time 9.80 s
+mean loss: 0.001418982000929964
+epoch 385
+cost time 9.85 s
+mean loss: 0.0014177173224842955
+epoch 386
+cost time 9.83 s
+mean loss: 0.0014140300682554834
+epoch 387
+cost time 10.28 s
+mean loss: 0.001416223761665388
+epoch 388
+cost time 10.50 s
+mean loss: 0.001412992656796088
+epoch 389
+cost time 10.76 s
+mean loss: 0.0014184924075379968
+epoch 390
+cost time 10.17 s
+mean loss: 0.001415560730537957
+epoch 391
+cost time 10.38 s
+mean loss: 0.0014185369740096995
+epoch 392
+cost time 10.29 s
+mean loss: 0.0014140721561753343
+epoch 393
+cost time 10.75 s
+mean loss: 0.0014155917998968472
+epoch 394
+cost time 10.45 s
+mean loss: 0.0014158795475283177
+epoch 395
+cost time 10.70 s
+mean loss: 0.001411325820327665
+epoch 396
+cost time 11.05 s
+mean loss: 0.001417646925442685
+epoch 397
+cost time 11.16 s
+mean loss: 0.0014152443292152741
+epoch 398
+cost time 11.11 s
+mean loss: 0.0014113484800228069
+epoch 399
+cost time 10.91 s
+mean loss: 0.001414071478976462
+epoch 400
+cost time 11.11 s
+mean loss: 0.0014108070543505506
+epoch 401
+cost time 11.85 s
+mean loss: 0.0014119264125449853
+epoch 402
+cost time 11.75 s
+mean loss: 0.0014147998802921074
+epoch 403
+cost time 408.89 s
+mean loss: 0.001412196566736819
+epoch 404
+cost time 11.52 s
+mean loss: 0.0014168420782647072
+epoch 405
+cost time 11.41 s
+mean loss: 0.001418320414546527
+epoch 406
+cost time 11.44 s
+mean loss: 0.001412013536776838
+epoch 407
+cost time 11.46 s
+mean loss: 0.001411763788300415
+epoch 408
+cost time 11.50 s
+mean loss: 0.0014117107822153813
+epoch 409
+cost time 11.67 s
+mean loss: 0.0014156057545119244
+epoch 410
+cost time 51.95 s
+mean loss: 0.0014142184797873419
+epoch 411
+cost time 11.99 s
+mean loss: 0.0014166276495004247
+epoch 412
+cost time 10.55 s
+mean loss: 0.0014190740800765144
+epoch 413
+cost time 10.60 s
+mean loss: 0.0014099547415613554
+epoch 414
+cost time 10.88 s
+mean loss: 0.001412433289632233
+epoch 415
+cost time 10.88 s
+mean loss: 0.0014125439952302756
+epoch 416
+cost time 11.05 s
+mean loss: 0.0014147503970143123
+epoch 417
+cost time 10.95 s
+mean loss: 0.0014100296189013518
+epoch 418
+cost time 10.81 s
+mean loss: 0.001407999694088681
+epoch 419
+cost time 10.77 s
+mean loss: 0.0014083279523616418
+epoch 420
+cost time 10.96 s
+mean loss: 0.0014186266185835196
+epoch 421
+cost time 11.01 s
+mean loss: 0.0014083773903668117
+epoch 422
+cost time 10.95 s
+mean loss: 0.0014087486273855862
+epoch 423
+cost time 10.90 s
+mean loss: 0.0014112620976650054
+epoch 424
+cost time 11.08 s
+mean loss: 0.0014108426143558553
+epoch 425
+cost time 10.96 s
+mean loss: 0.001409935755515869
+epoch 426
+cost time 10.97 s
+mean loss: 0.0014101300336834457
+epoch 427
+cost time 10.92 s
+mean loss: 0.001409357507279318
+epoch 428
+cost time 10.12 s
+mean loss: 0.001406928937898105
+epoch 429
+cost time 9.87 s
+mean loss: 0.0014114003247406302
+epoch 430
+cost time 9.84 s
+mean loss: 0.0014097718083156416
+epoch 431
+cost time 9.83 s
+mean loss: 0.001407326446671007
+epoch 432
+cost time 9.82 s
+mean loss: 0.0014096830866068728
+epoch 433
+cost time 9.96 s
+mean loss: 0.0014106380911424565
+epoch 434
+cost time 10.05 s
+mean loss: 0.0014044876489987294
+epoch 435
+cost time 10.02 s
+mean loss: 0.0014099325420549856
+epoch 436
+cost time 10.08 s
+mean loss: 0.00140567881325817
+epoch 437
+cost time 10.05 s
+mean loss: 0.001406151953085652
+epoch 438
+cost time 10.05 s
+mean loss: 0.0014088242264010777
+epoch 439
+cost time 10.04 s
+mean loss: 0.001406042789045371
+epoch 440
+cost time 10.05 s
+mean loss: 0.0014095336163981666
+epoch 441
+cost time 9.94 s
+mean loss: 0.0014081608599577195
+epoch 442
+cost time 9.79 s
+mean loss: 0.0014073251586399463
+epoch 443
+cost time 10.06 s
+mean loss: 0.0014071965235898383
+epoch 444
+cost time 9.88 s
+mean loss: 0.0014065921282730041
+epoch 445
+cost time 9.81 s
+mean loss: 0.0014078729656628436
+epoch 446
+cost time 9.92 s
+mean loss: 0.0014073291285019208
+epoch 447
+cost time 9.96 s
+mean loss: 0.0014048392643642605
+epoch 448
+cost time 10.02 s
+mean loss: 0.0014073053079370695
+epoch 449
+cost time 9.91 s
+mean loss: 0.0014063334700444507
+epoch 450
+cost time 9.95 s
+mean loss: 0.0014027481318578824
+epoch 451
+cost time 9.94 s
+mean loss: 0.001405086513194773
+epoch 452
+cost time 9.84 s
+mean loss: 0.0014060437014628935
+epoch 453
+cost time 9.98 s
+mean loss: 0.0014090279774923418
+epoch 454
+cost time 9.92 s
+mean loss: 0.0014180567388176026
+epoch 455
+cost time 9.97 s
+mean loss: 0.0014076216668726352
+epoch 456
+cost time 9.87 s
+mean loss: 0.001402750807420279
+epoch 457
+cost time 9.99 s
+mean loss: 0.0014054838731152634
+epoch 458
+cost time 10.08 s
+mean loss: 0.0014071998531675427
+epoch 459
+cost time 9.92 s
+mean loss: 0.0014073660547455024
+epoch 460
+cost time 9.89 s
+mean loss: 0.0014172648043873218
+epoch 461
+cost time 9.87 s
+mean loss: 0.0014060804917890993
+epoch 462
+cost time 9.90 s
+mean loss: 0.0014080911760345801
+epoch 463
+cost time 9.83 s
+mean loss: 0.0014059027483782325
+epoch 464
+cost time 9.92 s
+mean loss: 0.0014033623814829585
+epoch 465
+cost time 9.84 s
+mean loss: 0.0014071930303341813
+epoch 466
+cost time 9.81 s
+mean loss: 0.0014050139367986375
+epoch 467
+cost time 9.86 s
+mean loss: 0.0014064092515434464
+epoch 468
+cost time 9.95 s
+mean loss: 0.0014057387560048801
+epoch 469
+cost time 9.87 s
+mean loss: 0.0014067948252583543
+epoch 470
+cost time 9.86 s
+mean loss: 0.0014151685405522584
+epoch 471
+cost time 9.82 s
+mean loss: 0.0014066949776278283
+epoch 472
+cost time 9.99 s
+mean loss: 0.0014017069277465024
+epoch 473
+cost time 9.96 s
+mean loss: 0.001404497553057109
+epoch 474
+cost time 10.29 s
+mean loss: 0.0014048380573264236
+epoch 475
+cost time 10.44 s
+mean loss: 0.0014016137064362948
+epoch 476
+cost time 10.70 s
+mean loss: 0.0014086524596732333
+epoch 477
+cost time 10.73 s
+mean loss: 0.0014037387620689523
+epoch 478
+cost time 10.74 s
+mean loss: 0.001401456283369603
+epoch 479
+cost time 10.56 s
+mean loss: 0.0014036245072960982
+epoch 480
+cost time 10.00 s
+mean loss: 0.0014024065581596113
+epoch 481
+cost time 9.94 s
+mean loss: 0.0014047153842332973
+epoch 482
+cost time 9.84 s
+mean loss: 0.0014064742392526032
+epoch 483
+cost time 9.97 s
+mean loss: 0.0014017138650051803
+epoch 484
+cost time 10.70 s
+mean loss: 0.001402424315476201
+epoch 485
+cost time 9.97 s
+mean loss: 0.0014015358248844934
+epoch 486
+cost time 9.90 s
+mean loss: 0.0014022490368861482
+epoch 487
+cost time 10.35 s
+mean loss: 0.0014054237274874926
+epoch 488
+cost time 10.22 s
+mean loss: 0.001401902851748129
+epoch 489
+cost time 10.26 s
+mean loss: 0.001400062885099592
+epoch 490
+cost time 10.24 s
+mean loss: 0.0014026375085465675
+epoch 491
+cost time 10.32 s
+mean loss: 0.0013990676558863085
+epoch 492
+cost time 10.31 s
+mean loss: 0.001405032335095999
+epoch 493
+cost time 10.30 s
+mean loss: 0.0014076986701355085
+epoch 494
+cost time 10.26 s
+mean loss: 0.00140278767923721
+epoch 495
+cost time 10.27 s
+mean loss: 0.0014024008157002366
+epoch 496
+cost time 10.16 s
+mean loss: 0.0013984410068354546
+epoch 497
+cost time 10.05 s
+mean loss: 0.0014022860391479399
+epoch 498
+cost time 10.08 s
+mean loss: 0.0014008016174292973
+epoch 499
+cost time 10.05 s
+mean loss: 0.001401810019583497
+epoch 500
+cost time 10.04 s
+mean loss: 0.0014018722475530245
+Test filtered:
+Number of data points: 40932
+Hits @10: 0.5389914980944005
+Hits @3: 0.39108765757842273
+Hits @1: 0.2616779048177465
+Mean rank: 164.77245187139647
+Mean reciprocal rank: 0.35484604946001913
+
+Test raw:
+Number of data points: 40932
+Hits @10: 0.35395289748851755
+Hits @3: 0.204998534154207
+Hits @1: 0.12286230821850874
+Mean rank: 343.53930909801625
+Mean reciprocal rank: 0.19659086915389004
+cost time 18.98 s
