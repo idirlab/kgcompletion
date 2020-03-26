@@ -1,6 +1,8 @@
 # Realistic Re-evaluation of Knowledge Graph Completion Methods: An Experimental Study
 This repository contains codes, experiment scripts, and datasets to reproduce results of the following papers:
+
 [Realistic Re-evaluation of Knowledge Graph Completion Methods: An Experimental Study](https://arxiv.org/abs/2003.08001) Farahnaz Akrami, Mohammed Samiul Saeef, Qingheng Zhang, Wei Hu, and Chengkai Li, SIGMOD 2020
+
 [Re-evaluating Embedding-Based Knowledge Graph Completion Methods](https://dl.acm.org/citation.cfm?id=3269266) Farahnaz Akrami, Lingbing Guo, Wei Hu, and Chengkai Li, CIKM 2018
 
 A summary of the paper is published in a [Medium blogpost] (https://link.medium.com/lBHwjLeI94).
