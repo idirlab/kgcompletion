@@ -5,7 +5,7 @@ This repository contains codes, experiment scripts, and datasets to reproduce re
 
 [Re-evaluating Embedding-Based Knowledge Graph Completion Methods](https://dl.acm.org/citation.cfm?id=3269266) Farahnaz Akrami, Lingbing Guo, Wei Hu, and Chengkai Li, CIKM 2018
 
-A summary of the paper is published in a [Medium blogpost](https://link.medium.com/lBHwjLeI94).
+A summary of the paper is published in a [Medium blog post](https://link.medium.com/lBHwjLeI94).
 ## Cartesian-product
 To find Cartesian Product relations in FB15k and perform link prediction on these relations:
 ```
