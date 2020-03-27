@@ -30,7 +30,7 @@ def test_redundancy(dataset, rel_range):
     inpo_test = load_file(path + '%s-test-rel.pkl'%dataset)
 
 
-    g=open('./results/%s/test_redundancies_%s.txt'%(dataset,dataset),'w')
+    g=open('./results/%s/test-redundancies.txt'% dataset,'w')
     for rid in rel_range:#range(40943, 40961)
         if np.nonzero(inpo_test[rid])[1].any() == True:
             redundant_pairs = []
