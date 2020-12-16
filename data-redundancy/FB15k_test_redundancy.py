@@ -140,7 +140,7 @@ def test_redundancy():
         cPickle.dump(data, g)
 
 #test_redundancy()
-with open('./results/stat_test_matrix.pkl', 'rb') as g:
+with open('./results/FB15k/stat_test_matrix.pkl', 'rb') as g:
     data = cPickle.load(g)
 unq_rows, count = np.unique(data, axis=0, return_counts=True)
 out = {tuple(i): j for i, j in zip(unq_rows, count)}
